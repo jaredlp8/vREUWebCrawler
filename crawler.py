@@ -1,18 +1,14 @@
-from bs4 import BeautifulSoup
-import requests
+import bs4 as bs
+import urllib.request
+from requests_html import HTMLSession
 import lxml
 
-source = requests.get('http://deadline.com').text
+session = HTMLSession()
+resp = session.get('https://google.com')
+resp.html.render()
+soup = bs.BeautifulSoup(resp.html.html,'lxml')
+head_tags = soup.find('head')
+print(head_tags.prettify())
 
-soup = BeautifulSoup(source, 'lxml')
 
-article = soup.find('article')
-
-# headline = article.h3.a.text
-# print(headline)
-print(soup.prettify())
-
-# for article in soup.find_all('article'):
-#     headline = article.h3.a.text
-#     print(headline)
 
