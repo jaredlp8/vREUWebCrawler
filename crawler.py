@@ -15,9 +15,12 @@ for index in url:
     resp.html.render()
     soup = bs.BeautifulSoup(resp.html.html,'lxml')
     x = requests.head(index)
+    js_links = [i.get('src') for i in soup.find_all('script') if i.get('src')]
     print("Website:", index)
-    print("HTTP header:",x.headers)
-    print("Crawled HTML: ",soup.prettify())
+    print("HTTP header:", x.headers)
+    soup_source = soup.prettify()
+    print("Crawled HTML: ",soup_source)
+    print("JavaScript links: ",js_links)
     # test_df = pd.DataFrame({'Website': index,
     #                         'Header': head_tags
     # })
@@ -26,16 +29,11 @@ for index in url:
     # test_df.to_csv('data/websiteHeaders.csv',
     #                encoding='utf-8', index=False, columns=cols)
 
-# # get JavaScript files (work in progress)
+# get JavaScript files (work in progress)
 # script_files = []
 #
-# for script in soup.find_all("script"):
-#     if script.attrs.get("src"):
-#         script_url = urljoin(url, script.attrs.get("src"))
-#         script_files.append(script_url)
-#
-# header_files = []
-# # gets header
-# for script in soup.find_all("head"):
-#     script_url = urljoin(url, script.attrs.get("head"))
-#     header_files.append(script_url)
+# for script in soup.find_all('script') and index in url:
+#     if script.attrs.get('src'):
+#         script_url = urljoin(index, script.attrs.get("src"))
+#         print(script_url)
+
