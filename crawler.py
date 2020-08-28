@@ -3,37 +3,40 @@ import urllib.request
 import requests
 from requests_html import HTMLSession
 from urllib.parse import urljoin
-import lxml
 import csv
 import pandas as pd
-url = ['https://google.com', 'https://amazon.com']
+urls = ['https://google.com', 'https://amazon.com']
+data = []
 
+results_df = pd.DataFrame()
 # gets header
-for index in url:
+for url_link in urls:
     session = HTMLSession()
-    resp = session.get(index)
+    resp = session.get(url_link)
     resp.html.render()
-    soup = bs.BeautifulSoup(resp.html.html,'lxml')
-    x = requests.head(index)
-    js_links = [i.get('src') for i in soup.find_all('script') if i.get('src')]
-    print("Website:", index)
-    print("HTTP header:", x.headers)
+    soup = bs.BeautifulSoup(resp.html.html, 'lxml')
+    x = requests.head(url_link)
     soup_source = soup.prettify()
-    print("Crawled HTML: ",soup_source)
-    print("JavaScript links: ",js_links)
-    # test_df = pd.DataFrame({'Website': index,
-    #                         'Header': head_tags
-    # })
-    # cols = ['Website',
-    #         'Header']
-    # test_df.to_csv('data/websiteHeaders.csv',
-    #                encoding='utf-8', index=False, columns=cols)
+    js_links = [i.get('src') for i in soup.find_all('script') if i.get('src')]
+    # prints for testing purposes
+    # print("Website:", url_link)
+    # print("HTTP header:", x.headers)
+    # print("Crawled HTML: ", soup_source)
+    # print("JavaScript files: ", js_links)
 
-# get JavaScript files (work in progress)
-# script_files = []
-#
-# for script in soup.find_all('script') and index in url:
-#     if script.attrs.get('src'):
-#         script_url = urljoin(index, script.attrs.get("src"))
-#         print(script_url)
+    data.append({'Website': url_link,
+                 'Header': x.headers,
+                 'JavaScript files': js_links})
+
+    temp_df = pd.DataFrame(data)  # temporary storage
+    results_df = results_df.append(temp_df).reset_index(drop=True)  # stores all the data
+
+# creates the data csv
+results_df.to_csv('data.csv', index=False)
+
+testing = pd.read_csv('data.csv')
+heading = testing.head(100)
+description = testing.describe()
+print(heading)
+
 
