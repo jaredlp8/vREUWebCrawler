@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 import csv
 import pandas as pd
 import time
-urls = ['https://google.com']
+urls = ['https://google.com.tw', 'https://google.com.hk']
 data = []
 results_df = pd.DataFrame()
 # gets header
@@ -36,8 +36,8 @@ for url_link in urls:
     results_df = results_df.append(temp_df).reset_index(drop=True)  # stores all the data
 
 # creates the data csv
-results_df.to_csv('Sites101-125data.csv', index=False)
-testing = pd.read_csv('Sites101-125data.csv')
+results_df.to_csv('Sites251-275data.csv', index=False)
+testing = pd.read_csv('Sites251-275data.csv')
 heading = testing.head(100)
 description = testing.describe()
 print(heading)
