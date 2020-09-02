@@ -6,13 +6,13 @@ from urllib.parse import urljoin
 import csv
 import pandas as pd
 import time
-urls = ['https://cnn.com']
+urls = ['https://google.com']
 data = []
-
 results_df = pd.DataFrame()
 # gets header
 for url_link in urls:
     session = HTMLSession()
+    session.max_redirects = 60
     resp = session.get(url_link)
     resp.html.render()
     soup = bs.BeautifulSoup(resp.html.html, 'lxml')
@@ -22,11 +22,11 @@ for url_link in urls:
     site_header = requests.get(url_link)
     # prints for testing purposes
     print("Website:", url_link)
-    print("HTTP header:", get_head.headers)
-    print("Crawled HTML: ", soup_source)
-    print("JavaScript files: ", js_links)
-    print(site_header.headers)
-    print(len(js_links))
+    # print("HTTP header:", get_head.headers)
+    # print("Crawled HTML: ", soup_source)
+    # print("JavaScript files: ", js_links)
+    # print(site_header.headers)
+    # print(len(js_links))
 
     data.append({'Website': url_link,
                  'Header': site_header.headers,
@@ -36,8 +36,8 @@ for url_link in urls:
     results_df = results_df.append(temp_df).reset_index(drop=True)  # stores all the data
 
 # creates the data csv
-results_df.to_csv('Sites1-5data.csv', index=False)
-testing = pd.read_csv('Sites1-5data.csv')
+results_df.to_csv('Sites101-125data.csv', index=False)
+testing = pd.read_csv('Sites101-125data.csv')
 heading = testing.head(100)
 description = testing.describe()
 print(heading)

@@ -5,7 +5,8 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 # headless browser to test javascript code
 driver = webdriver.Chrome(ChromeDriverManager().install())
-site = 'https://www.office.com/?omkt=es-CL&auth=2'
+site = 'https://wsj.com'
+
 driver.get(site)  # add desired link to test
 y = requests.get(site)
 data = []
@@ -32,3 +33,4 @@ testing = pd.read_csv('headlessdata.csv')
 heading = testing.head()
 description = testing.describe()
 print(heading)
+
