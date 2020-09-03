@@ -5,14 +5,8 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 # headless browser to test javascript code
 driver = webdriver.Chrome(ChromeDriverManager().install())
-site = 'https://ign.com'
+site = 'https://td.com'
 
-#  ['http://xinhuanet.com/','https://samsclub.com', 'https://messenger.com', 'https://tianya.cn', 'https://groupon.com',
-#         'https://chron.com', 'https://cloudfront.com', 'https://fivethirtyeight.com', 'https://mailchimp.com', 'https://outbrain.com',
-#         'https://thehill.com', 'https://teacherspayteachers.com', 'https://giphy.com', 'https://sfgate.com', 'https://cbs.com',
-#         'https://cvs.com', 'https://diply.com', 'https://allrecipes.com/', 'https://walgreens.com','https://people.com',
-#         'https://asana.com', 'https://wikimedia.org', 'https://att.net', 'https://wunderground.com',
-#         'https://houzz.com']
 driver.get(site)  # add desired link to test
 y = requests.get(site)
 data = []
