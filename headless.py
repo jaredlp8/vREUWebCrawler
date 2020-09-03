@@ -1,3 +1,5 @@
+from wsgiref import headers
+
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -5,7 +7,7 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 # headless browser to test javascript code
 driver = webdriver.Chrome(ChromeDriverManager().install())
-site = 'https://td.com'
+site = 'https://nvidia.com'
 
 driver.get(site)  # add desired link to test
 y = requests.get(site)

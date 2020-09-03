@@ -36,8 +36,8 @@ for url_link in urls:
     results_df = results_df.append(temp_df).reset_index(drop=True)  # stores all the data
 
 # creates the data csv
-results_df.to_csv('Sites251-275data.csv', index=False)
-testing = pd.read_csv('Sites251-275data.csv')
+results_df.to_csv('Sites476-500data.csv', index=False)
+testing = pd.read_csv('data_files/401-500/Sites476-500data.csv')
 heading = testing.head(100)
 description = testing.describe()
 print(heading)
