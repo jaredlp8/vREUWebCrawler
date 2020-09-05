@@ -2,22 +2,24 @@ import bs4 as bs
 import urllib.request
 import requests
 from requests_html import HTMLSession
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 from urllib.parse import urljoin
 import csv
+from tqdm import tqdm
 import pandas as pd
 import time
-urls = ['https://google.com.tw', 'https://google.com.hk']
+urls = ['http://lowes.com']
+enumerate(urls, start=0)
 data = []
+driver = webdriver.Chrome(ChromeDriverManager().install())
 results_df = pd.DataFrame()
 # gets header
-for url_link in urls:
-    session = HTMLSession()
-    session.max_redirects = 60
-    resp = session.get(url_link)
-    resp.html.render()
-    soup = bs.BeautifulSoup(resp.html.html, 'lxml')
-    get_head = requests.head(url_link)
-    soup_source = soup.prettify()
+for url_link in enumerate(urls) and tqdm(urls):
+    driver.get(url_link)
+    soup = bs.BeautifulSoup(driver.page_source, 'lxml')
+    # get_head = requests.head(url_link)
+    # soup_source = soup.prettify()
     js_links = [i.get('src') for i in soup.find_all('script') if i.get('src')]
     site_header = requests.get(url_link)
     # prints for testing purposes
@@ -37,7 +39,7 @@ for url_link in urls:
 
 # creates the data csv
 results_df.to_csv('Sites476-500data.csv', index=False)
-testing = pd.read_csv('data_files/401-500/Sites476-500data.csv')
+testing = pd.read_csv('Sites476-500data.csv')
 heading = testing.head(100)
 description = testing.describe()
 print(heading)

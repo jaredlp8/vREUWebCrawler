@@ -1,5 +1,4 @@
 from wsgiref import headers
-
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -7,7 +6,7 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 # headless browser to test javascript code
 driver = webdriver.Chrome(ChromeDriverManager().install())
-site = 'https://nvidia.com'
+site = 'https://yahoo.com'
 
 driver.get(site)  # add desired link to test
 y = requests.get(site)
@@ -29,7 +28,7 @@ temp_df = pd.DataFrame(data)  # temporary storage
 results_df = results_df.append(temp_df).reset_index(drop=True)  # stores all the data
 
 # creates the data csv
-results_df.to_csv('headlessdata.csv', index=False)
+results_df.to_csv('headlessdata.csv', sep=',', index=False)
 
 testing = pd.read_csv('headlessdata.csv')
 heading = testing.head()
