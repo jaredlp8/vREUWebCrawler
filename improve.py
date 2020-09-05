@@ -6,9 +6,9 @@ import requests as r
 from tqdm import tqdm
 from os import system
 from tkinter import Tk, filedialog
-from tkinter.filedialog import askopenfilename
 import csv
 from collections import Counter
+
 java_dict = {}
 
 
@@ -16,7 +16,6 @@ def metrics_getter(site_url, site_list):
     global java_dict
     sites_link = []
     header_list = {}
-    response = {}
     writer.writerow({'Site': site_url, '# of JS files': len(site_list)})
 
     for site in tqdm(site_list):
@@ -95,8 +94,6 @@ with open('data.csv', mode='w', newline='') as f:
         counter = 0
         if url.__contains__('http://') or url.__contains__('https://'):
             driver.get(url)
-        else:
-            driver.get('http://' + url + '/')
 
         soup = BeautifulSoup(driver.page_source, "lxml")
 
