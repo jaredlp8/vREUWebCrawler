@@ -1,0 +1,627 @@
+Javascript Files,Sites,Repetitions
+http://www.xinhuanet.com/global/js/pageCore.js,{'http://xinhuanet.com/'},1
+http://www.xinhuanet.com/global/lib/jq/jquery1.12.4/jquery1.12.4.js,{'http://xinhuanet.com/'},1
+http://a2.xinhuanet.com/js/xadn.js,{'http://xinhuanet.com/'},1
+http://www.xinhuanet.com/fireman19-109/fireman109.js,{'http://xinhuanet.com/'},1
+http://www.news.cn/2014/js/jqSuperSlide211.js,{'http://xinhuanet.com/'},1
+http://www.news.cn/2015/js2015/comp.min.js,{'http://xinhuanet.com/'},1
+http://www.news.cn/public/audio/js/xinhuaRadio.base.playlist.min.js,{'http://xinhuanet.com/'},1
+http://www.news.cn/public/audio/js/xinhuaRadio.homepage.min.js,{'http://xinhuanet.com/'},1
+http://www.news.cn/sytxh.js,{'http://xinhuanet.com/'},1
+http://www.news.cn/2015/js2015/video.min.js,{'http://xinhuanet.com/'},1
+http://www.news.cn/2015/js2015/rdgc_na.js,{'http://xinhuanet.com/'},1
+http://www.xinhuanet.com/index/js/index20200710.js,{'http://xinhuanet.com/'},1
+http://www.xinhuanet.com/global/js/jquery.xinhuanetAD.min.js,{'http://xinhuanet.com/'},1
+http://tmisc.home.news.cn/da/js/config/global-cfg.js,{'http://xinhuanet.com/'},1
+http://tmisc.home.news.cn/da/js/expand/332.js,{'http://xinhuanet.com/'},1
+http://tmisc.home.news.cn/da/js/fetch/st-main.js?st-cfg=config/xz-lnpd-config&st-v=combine-st/combine-st,{'http://xinhuanet.com/'},1
+"http://tmisc.home.news.cn/da/js/??config/xz-lnpd-config.js,combine-st/combine-st.js",{'http://xinhuanet.com/'},1
+http://webd.home.news.cn/webdig.js?z=1,{'http://xinhuanet.com/'},1
+http://da.xuan.news.cn/pc-log?tm=1599429103840&dt=%25E6%2596%25B0%25E5%258D%258E%25E7%25BD%2591_%25E8%25AE%25A9%25E6%2596%25B0%25E9%2597%25BB%25E7%25A6%25BB%25E4%25BD%25A0%25E6%259B%25B4%25E8%25BF%2591&uu=http%3A%2F%2Fxinhuanet.com%2F&charsets=UTF-8&rl=1600_900&rf=-&se=-&kw=-&pc=-&cc=-&si=-&un=-&nn=-&bv=85.0.4183.83&bw=chrome&os=-&bp=1&ck=-&et=-&cb=default&wt=4&at=xhwhome&pt=-&ce=-&ct=-&th=-&st=1&ni=01&cf=-&xzn=kan&ext=%7B%22location%22%3A%22-%22%7D,{'http://xinhuanet.com/'},1
+http://a2.xinhuanet.com/js/xadndelayed.js,{'http://xinhuanet.com/'},1
+http://da.xuan.news.cn/setcke?tm=1599429105868&pc=828a50e97ac5f8f6c606517d68eed4e7.1599429142.1599429142.1&cc=828a50e97ac5f8f6c606517d68eed4e7,{'http://xinhuanet.com/'},1
+//www.googletagservices.com/tag/js/gpt.js,"{'http://samsclub.com', 'https://thehill.com'}",2
+https://www.googletagmanager.com/gtm.js?id=GTM-MT43RWC,{'http://samsclub.com'},1
+/js/tealeaf-v5.7/tealeaf-desktop-v5.7.1.min.js,{'http://samsclub.com'},1
+https://beacon.samsclub.com/beacon.js?bd=beacon.samsclub.com&bh=beacon.samsclub-new.com,{'http://samsclub.com'},1
+/js/vendors.desktop.636c64932051d609d32f.js,{'http://samsclub.com'},1
+/js/app.desktop.010bb987b414cba9f467.js,{'http://samsclub.com'},1
+/js/home-opus.desktop.5aa2c9ae52bb21d06e56-5e9a8361656696ea127a.js,{'http://samsclub.com'},1
+/sams/html/js/sat.js,{'http://samsclub.com'},1
+/__ssobj/core.js+ssdomvar.js+generic-adapter.js,{'http://samsclub.com'},1
+/js/pdp.desktop.f763a0767f370e100458.js,{'http://samsclub.com'},1
+/js/a2c.desktop.6d599bfcf7c38c7d05e8.js,{'http://samsclub.com'},1
+/js/opus.desktop.e450b14117273eab9c84-ec724805bb2a8bd81251.js,{'http://samsclub.com'},1
+/js/rich-relevance.desktop.99583f42a43358cd1180-497473abf1224f74f396.js,{'http://samsclub.com'},1
+https://beacon.samsclub.com/rum.js?mode=release&bh=beacon.samsclub-new.com&bd=beacon.samsclub.com&pv_id=cb5ba263-8ccf-4ca2-9cdf-05879aa23e18,{'http://samsclub.com'},1
+https://connect.facebook.net/signals/config/1948219058726291?v=2.9.24&r=stable,{'https://messenger.com'},1
+https://connect.facebook.net/en_US/fbevents.js,"{'https://cbs.com', 'https://chron.com', 'https://messenger.com', 'https://people.com '}",4
+https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/NafauUVhljh.js?_nc_x=Ij3Wp8lg5Kz,{'https://messenger.com'},1
+https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/RRz6ihYVa1v.js?_nc_x=Ij3Wp8lg5Kz,{'https://messenger.com'},1
+https://static.xx.fbcdn.net/rsrc.php/v3i7M54/yM/l/en_US/8bj6K4FFNIo.js?_nc_x=Ij3Wp8lg5Kz,{'https://messenger.com'},1
+https://static.xx.fbcdn.net/rsrc.php/v3iJid4/y-/l/en_US/lYRNPI4p-oE.js?_nc_x=Ij3Wp8lg5Kz,{'https://messenger.com'},1
+https://static.xx.fbcdn.net/rsrc.php/v3i7vK4/y6/l/en_US/5AeNE3B9-dd.js?_nc_x=Ij3Wp8lg5Kz,{'https://messenger.com'},1
+https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/Ud9t5KHls-D.js?_nc_x=Ij3Wp8lg5Kz,{'https://messenger.com'},1
+https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/laxd--MGQo6.js?_nc_x=Ij3Wp8lg5Kz,{'https://messenger.com'},1
+https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yL/l/en_US/2FuRw3EEvPp.js?_nc_x=Ij3Wp8lg5Kz,{'https://messenger.com'},1
+https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/6KqFq7q8hV0.js?_nc_x=Ij3Wp8lg5Kz,{'https://messenger.com'},1
+https://d31qbv1cthcecs.cloudfront.net/atrk.js,{'https://tianya.cn'},1
+http://static.tianyaui.com/global/ty/core/interface.js?_v=2020617,{'https://tianya.cn'},1
+"//dol.tianya.cn/s?z=tianya&c=3111304,3111301,3111302,3111303,3111399",{'https://tianya.cn'},1
+http://static.tianyaui.com/global/ty/util/TY.util.userActionRl_f58083e.js?_v=,{'https://tianya.cn'},1
+//stat.tianya.cn/cityid.jsp,{'https://tianya.cn'},1
+//static.tianyaui.com/global/ty/TY.js,{'https://tianya.cn'},1
+//static.tianyaui.com/global/member/web/static/js/loginV3_de7159a.js,{'https://tianya.cn'},1
+//static.tianyaui.com/qy/adsame/ads.js,{'https://tianya.cn'},1
+https://www2.grouponcdn.com/layout/assets/adframe-6e717fa5a7bf.js,{'https://groupon.com'},1
+https://www.googletagmanager.com/gtm.js?id=GTM-B76Z,{'https://groupon.com'},1
+https://vmss.boldchat.com/aid/888454639756334259/bc.vms4/vms.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/browse/assets/home_desktop_lazy_load_card_ui-4154bbe959.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/desktop-core-v7.0-51d6012d965d.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/optimize-suite-v2-7c61b6ea4cd4.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/desktop-preact-710e41d7ef6a.js,{'https://groupon.com'},1
+/browse/js/locale.js?country=US&locale=en_US&brand=groupon&version=1628a4f048,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/gig-js-truncation-07aa08ddd06f.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/browse/assets/home_desktop-68eb858042.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/head.load-ff9511337277.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/boomerang-sls-23dc5fab262f.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/2-c2bca8dc588f.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/4-1ce75b2bc06a.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/desktop-misc-v7-d0f2ac43bda0.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/gig-preact-components-FullSheet-8ebb956bb6c8.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/113-fa130c38a87b.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/DoNotSell-4ccf5997b4a9.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/1-e186ef2745a0.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/5-1debb34224d4.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/3-ed12afa8646a.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/desktop-preact-redesign-header-4916c2fe58a1.js,{'https://groupon.com'},1
+https://www2.grouponcdn.com/layout/assets/desktop-footer-072225e6f186.js,{'https://groupon.com'},1
+https://www1.grouponcdn.com/app/subscriptions/assets/email_zip_main_sds-3fdc22b7a0.js,{'https://groupon.com'},1
+/resources/dd7922570arn21733d15b9c771646653,{'https://groupon.com'},1
+//cdn.keywee.co/dist/sp-2.9.1.js,{'https://chron.com'},1
+https://cdn.taboola.com/libtrc/userx.20200827-17_b5-PR-27413-DEV-67326-refactor-next-up-for-tbl-reminder-productization-ace4e6797c9-SNAPSHOT.es6.js,"{'https://chron.com', 'https://fivethirtyeight.com'}",2
+https://sb.scorecardresearch.com/beacon.js,"{'https://chron.com', 'https://sfgate.com', 'https://diply.com', 'https://wunderground.com', 'https://thehill.com', 'https://fivethirtyeight.com'}",6
+https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101,"{'https://chron.com', 'https://thehill.com', 'https://people.com ', 'https://fivethirtyeight.com'}",4
+https://s.skimresources.com/js/131678X1594131.skimlinks.js,{'https://chron.com'},1
+https://z-na.associates-amazon.com/onetag/v2?MarketPlace=US&instanceId=4d1725f8-8e9d-4373-bac8-d19b9b5ed187,{'https://chron.com'},1
+https://cdn.pbbl.co/r/2530.js,{'https://chron.com'},1
+//static.ads-twitter.com/uwt.js,"{'https://cbs.com', 'https://chron.com'}",2
+https://connect.facebook.net/signals/config/1026651447359119?v=2.9.24&r=stable,{'https://chron.com'},1
+https://connect.facebook.net/signals/config/1381224055336370?v=2.9.24&r=stable,{'https://chron.com'},1
+https://connect.facebook.net/signals/config/169188807166631?v=2.9.24&r=stable,{'https://chron.com'},1
+https://static.criteo.net/js/ld/publishertag.prebid.js,"{'https://chron.com', 'https://sfgate.com'}",2
+//static.chartbeat.com/js/subscriptions.js,{'https://chron.com'},1
+https://api-us-east.zqtk.net/hearst-f83j1c?url=https%3A%2F%2Fwww.chron.com%2F,{'https://chron.com'},1
+//s.ntv.io/serve/load.js,"{'https://chron.com', 'https://thehill.com', 'https://sfgate.com'}",3
+//cdn.taboola.com/libtrc/unip/1147757/tfa.js,"{'https://chron.com', 'https://sfgate.com'}",2
+//cdn.keywee.co/dist/analytics.min.js,{'https://chron.com'},1
+//static.chartbeat.com/js/chartbeat_video.js,"{'https://chron.com', 'https://sfgate.com', 'https://allrecipes.com/', 'https://people.com '}",4
+https://prepareplanes.com/v2/0/kbv2llh70wG-EG7h0O7egTSFzqC0OVcIaQxdzJOe2Umwdd05zlwnmmR3nfmxV4BtyFj,{'https://chron.com'},1
+https://www.google-analytics.com/analytics.js,"{'https://chron.com', 'https://sfgate.com', 'https://teacherspayteachers.com', 'https://people.com ', 'https://giphy.com', 'https://asana.com', 'https://outbrain.com', 'https://allrecipes.com/'}",8
+//nr-events.taboola.com/newsroom/1.0/hearstlocalnews-chron/get-action?page.url=https%3A%2F%2Fwww.chron.com%2F&view.id=188106115105402063&page.template=home&page.dashboard=home,{'https://chron.com'},1
+https://cdn.taboola.com/libtrc/impl.20200827-17_b5-PR-27413-DEV-67326-refactor-next-up-for-tbl-reminder-productization-ace4e6797c9-SNAPSHOT.js,"{'https://chron.com', 'https://sfgate.com', 'https://fivethirtyeight.com'}",3
+//widget.perfectmarket.com/hearstlocalnews-network/load.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://connect.facebook.net/en_US/sdk.js?hash=07c4809ee08ac541ddcafcf3c7c74d00&ua=modern_es6,"{'https://chron.com', 'https://teacherspayteachers.com', 'https://people.com ', 'https://giphy.com', 'https://thehill.com', 'https://fivethirtyeight.com'}",6
+https://middycdn-a.akamaihd.net/bootstrap/bootstrap.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://nexus.ensighten.com/hearst/news/code/6924899a4e36f509be7624108b97f961.js?conditionId0=304571,{'https://chron.com'},1
+https://nexus.ensighten.com/hearst/news/code/4915139b25e3fb47f429ca9dc3f2303c.js?conditionId0=4882639,"{'https://chron.com', 'https://sfgate.com'}",2
+https://nexus.ensighten.com/hearst/news/code/fbd8717000ecbc2025c7009d0defe959.js?conditionId0=305111,{'https://chron.com'},1
+https://nexus.ensighten.com/hearst/news/code/f7c453b6e0de5efe8113a9d3b93fab56.js?conditionId0=318893,"{'https://chron.com', 'https://sfgate.com'}",2
+https://nexus.ensighten.com/hearst/news/code/27931234a891fda48ac366fdab0c10a3.js?conditionId0=422740,"{'https://chron.com', 'https://sfgate.com'}",2
+https://nexus.ensighten.com/hearst/news/code/cf3b295ddcebabfce9b89a1ebbe342b2.js?conditionId0=306987,{'https://chron.com'},1
+https://nexus.ensighten.com/hearst/news/code/ebbc782e1d21a7d05dd4d9969b2de357.js?conditionId0=318802,"{'https://chron.com', 'https://sfgate.com'}",2
+https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=135322359905667&autoLogAppEvents=1,{'https://chron.com'},1
+https://nexus.ensighten.com/hearst/news/serverComponent.php?r=0.15824657471080816&namespace=Bootstrapper&staticJsPath=nexus.ensighten.com/hearst/news/code/&publishedOn=Wed Sep 02 18:51:40 GMT 2020&ClientID=109&PageID=https%3A%2F%2Fwww.chron.com%2F,{'https://chron.com'},1
+//c2.taboola.com/nr/hearstlocalnews-chron/newsroom.js,{'https://chron.com'},1
+//cdn.taboola.com/libtrc/hearstlocalnews-network/loader.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://cdn.permutive.com/0272ac85-5199-4024-a555-397c3d825d95-web.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://c.amazon-adsystem.com/aax2/apstag.js,"{'https://chron.com', 'https://sfgate.com', 'https://people.com ', 'https://fivethirtyeight.com', 'https://allrecipes.com/'}",5
+https://securepubads.g.doubleclick.net/tag/js/gpt.js,"{'https://chron.com', 'https://sfgate.com', 'https://allrecipes.com/', 'https://people.com '}",4
+https://scripts.webcontentassessor.com/scripts/b8d94fd702b39f91830ea26eb261a1dd7eb3f9d18e86f88c83f7a317f3115379,{'https://chron.com'},1
+/js/hdn/utils/polyfill.min.js,"{'https://chron.com', 'https://sfgate.com'}",2
+/js/hdn/utils/modernizr-2.6.2.min.js?v10.8.0,"{'https://chron.com', 'https://sfgate.com'}",2
+/js/hdn/unification/modules/adTools.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://aps.hearstnp.com/Scripts/loadAds.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://aps.hearstnp.com/SRO/GetJS?url=www.chron.com,{'https://chron.com'},1
+/external/js/global.allPages.v10.8.0.js,"{'https://chron.com', 'https://sfgate.com'}",2
+//ak.sail-horizon.com/spm/spm.v1.min.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://cdn.blueconic.net/hearst.js,"{'https://chron.com', 'https://sfgate.com'}",2
+//static.chartbeat.com/js/chartbeat_mab.js,"{'https://chron.com', 'https://sfgate.com', 'https://allrecipes.com/', 'https://people.com '}",4
+//treg.hearstnp.com/treg.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://treg.hearstnp.com/assets/0x7F1EEC0BF0CEAC5562CC6F75ACB21877D6AD8763/GetJS?url=www.chron.com,{'https://chron.com'},1
+https://nexus.ensighten.com/hearst/news/Bootstrap.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020083101.js?21067372,"{'https://chron.com', 'https://sfgate.com', 'https://allrecipes.com/', 'https://people.com '}",4
+//yield-manager.browsiprod.com/supply/v4?sk=chron&url=https%3A%2F%2Fwww.chron.com%2F&bid=IwJGufPECw&c=__bgscb_eCzpxVAgZA&at=Houston%20Local%20News%2C%20Weather%2C%20Headlines%2C%20Sports%2C%20Business%2C%20and%20Entertainment%20-%20The%20Houston%20Chronicle%20at%20Chron.com%20-%20Houston%20Chronicle&sw=1600&sh=900&cd=%7B%22ec%22%3Afalse%2C%22uc%22%3Atrue%7D&rp=false,{'https://chron.com'},1
+//widget.perfectmarket.com/hearstlocalnews-network/pmk-202003261.1.js,"{'https://chron.com', 'https://sfgate.com'}",2
+https://hearst.blueconic.net/plugins/static_files/js/jquery.validate.min.js,{'https://chron.com'},1
+https://ak.sail-horizon.com/spm/spm.v1.min.js,{'https://chron.com'},1
+https://adservice.google.com.pr/adsid/integrator.js?domain=www.chron.com,{'https://chron.com'},1
+https://adservice.google.com/adsid/integrator.js?domain=www.chron.com,{'https://chron.com'},1
+//www.chron.com/external/weather/weather.json?_=159942924745&format=json&callback=hdnWeatherJsonpCallback,{'https://chron.com'},1
+https://jadserve.postrelease.com/t?ntv_url=https%3A%2F%2Fwww.chron.com%2F&ntv_mvi,{'https://chron.com'},1
+//middycdn-a.akamaihd.net/sd/apps/middy/middy-desktop-2.3.0.js,"{'https://chron.com', 'https://sfgate.com'}",2
+//cdn.keywee.co/config/694.js,{'https://chron.com'},1
+//embed.sendtonews.com/player3/embedcode.js?fk=gdF7xWjC&cid=9612&offsetx=0&offsety=0&floatwidth=400&floatposition=bottom-right,{'https://chron.com'},1
+https://projects.hearstnp.com/projects/open-for-business/dist/filter-options.data.js?ver=2,"{'https://chron.com', 'https://sfgate.com'}",2
+https://projects.hearstnp.com/projects/open-for-business/dist/app.searchwidget.min.js?ver=1.5,"{'https://chron.com', 'https://sfgate.com'}",2
+https://realm.hearst3pcc.com/utility/C3P0_RealmCookie?host=www.chron.com&operation=create&cb=1599429241394,{'https://chron.com'},1
+https://realm.hearst3pcc.com/utility/C3P0_RealmCookie?host=www.chron.com&operation=check&cb=1599429244241,{'https://chron.com'},1
+/external/js/global.bottom.v10.8.0.js,{'https://chron.com'},1
+https://middycdn-a.akamaihd.net/abd.js,{'https://chron.com'},1
+https://a0.awsstatic.com/libra/1.0.352/libra-head.js,{'http://cloudfront.com'},1
+https://a0.awsstatic.com/s_code/js/3.0/awshome_s_code.js,{'http://cloudfront.com'},1
+https://a0.awsstatic.com/target/1.0.111/aws-target-mediator.js,{'http://cloudfront.com'},1
+https://a0.awsstatic.com/libra/1.0.352/libra-bundle.js,{'http://cloudfront.com'},1
+https://a0.awsstatic.com/libra/1.0.352/components/popover.js,{'http://cloudfront.com'},1
+https://a0.awsstatic.com/libra/1.0.352/components/sticky-subnav.js,{'http://cloudfront.com'},1
+https://a0.awsstatic.com/libra/1.0.352/components/video.js,{'http://cloudfront.com'},1
+https://a0.awsstatic.com/da/js/1.0.45/aws-da.js,{'http://cloudfront.com'},1
+//www.googleadservices.com/pagead/conversion_async.js,"{'https://fivethirtyeight.com', 'https://asana.com', 'https://giphy.com', 'https://outbrain.com'}",4
+https://cdn-gl.imrworldwide.com/novms/js/2/nlsSDK600.bundle.min.js,{'https://fivethirtyeight.com'},1
+https://www.googletagservices.com/tag/js/gpt.js,{'https://fivethirtyeight.com'},1
+/wp-content/plugins/abc-analytics/assets/js/vendor/s_code_538.js,{'https://fivethirtyeight.com'},1
+https://connect.facebook.net/en_US/sdk.js#version=v6.0&xfbml=1&appId=797620670264818,{'https://fivethirtyeight.com'},1
+https://www.googletagmanager.com/gtm.js?id=GTM-KLHT6T2,{'https://fivethirtyeight.com'},1
+https://cdn-gl.imrworldwide.com/conf/PF2155097-E1B7-4900-A8F3-22BADF34DBC6.js#name=nlsnInstance&ns=NOLBUNDLE,{'https://fivethirtyeight.com'},1
+https://static.chartbeat.com/js/chartbeat.js,{'https://fivethirtyeight.com'},1
+https://static.chartbeat.com/js/chartbeat_mab.js,{'https://fivethirtyeight.com'},1
+https://cdn.taboola.com/libtrc/abcnews-fivethirtyeight/loader.js,{'https://fivethirtyeight.com'},1
+https://cdn.registerdisney.go.com/v2/outer/DisneyID.js,{'https://fivethirtyeight.com'},1
+https://fivethirtyeight.com/_static/??-eJydkdFOwzAMRX+ILEIIsT4gviU0t61L6oTYadW/J7ANChqV4CmS7XMs39glmTaygtWmUHpisZ6EsZoJIq4WeutEoGJHsZFB/jARH0a5sZUlbkPx+GiOrwV5PT+XgZ9ySGKj7jnG4Dbic2WrvkpKbMmFDdi5FhV9+TupC6kim5TjlHSPL0qBlOqVX/RMHnEP2klxBvuYbSqZuvWfDsYiAe8H/PYdhT2ytDHj2godULWnaDqaoQNlXUH9oNt0v3fMAOc/Nz5Nj7f3zbE5Ptw1zfgGsYjd6Q==,{'https://fivethirtyeight.com'},1
+https://platform.twitter.com/widgets.js?ver=1.0.23,{'https://fivethirtyeight.com'},1
+https://fivethirtyeight.com/wp-content/plugins/abc-analytics/assets/js/analytics.min.js?m=1595339958g,{'https://fivethirtyeight.com'},1
+https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020082701.js,"{'https://fivethirtyeight.com', 'https://thehill.com'}",2
+https://platform.twitter.com/js/button.e24f3bcdec527b80b9c80e88b62047c3.js,{'https://fivethirtyeight.com'},1
+https://www.googleadservices.com/pagead/conversion/792807980/?random=1599429353512&cv=9&fst=1599429353512&num=1&value=0&label=gfpoCIDjyocBEKyUhfoC&guid=ON&resp=GooglemKTybQhCsO&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_his=9&u_tz=-240&u_java=false&u_nplug=3&u_nmime=4&gtm=2wg8q1&sendb=1&ig=1&frm=0&url=https%3A%2F%2Ffivethirtyeight.com%2F&tiba=FiveThirtyEight%20%7C%20Nate%20Silver%E2%80%99s%20FiveThirtyEight%20uses%20statistical%20analysis%20%E2%80%94%20hard%20numbers%20%E2%80%94%20to%20tell%20compelling%20stories%20about%20politics%2C%20sports%2C%20science%2C%20economics%20and%20culture.&hn=www.googleadservices.com&bttype=purchase&async=1&rfmt=3&fmt=4,{'https://fivethirtyeight.com'},1
+https://adservice.google.com.pr/adsid/integrator.js?domain=fivethirtyeight.com,{'https://fivethirtyeight.com'},1
+https://adservice.google.com/adsid/integrator.js?domain=fivethirtyeight.com,{'https://fivethirtyeight.com'},1
+https://fivethirtyeight.com/_static/??-eJyVjsEOgjAQRH/I0mAk2oPxW0q70MW2EHaL8e9tlEODJMbj7MybHfmYhBkjQ2Q5+dRjJKlbI3SyOIoONKcZ8okImORAsvWjuVMVMFYDHeQObtmg+MS+uZXBaHyy8HayTIx+r5IdhBwCmqLocAF2OPMTsHdcVG+csmjzB0IL9ud2bcvhWf1LqBW4hWvdKFWfLsfmPLwAMyyGQQ==,{'https://fivethirtyeight.com'},1
+https://stats.wp.com/e-202036.js,{'https://fivethirtyeight.com'},1
+https://www.googletagmanager.com/gtm.js?id=GTM-MCZTKL,{'https://mailchimp.com'},1
+https://cdn.cookielaw.org/consent/41e15231-4a82-4457-b3aa-67f11aea3ee2/OtAutoBlock.js,{'https://mailchimp.com'},1
+https://cdn.cookielaw.org/scripttemplates/otSDKStub.js,"{'https://cbs.com', 'https://allrecipes.com/', 'https://mailchimp.com', 'https://people.com '}",4
+https://cdn.optimizely.com/js/8896740779.js,{'https://mailchimp.com'},1
+https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location,"{'https://cbs.com', 'https://allrecipes.com/', 'https://mailchimp.com', 'https://people.com '}",4
+https://cdn.cookielaw.org/scripttemplates/6.1.0/otBannerSdk.js,{'https://mailchimp.com'},1
+/release/plums/cxp/js/main.1867fe5b.js,{'https://mailchimp.com'},1
+https://s.swiftypecdn.com/cc/QMWsyDDiWBTV3xZq5EMz.js,{'https://mailchimp.com'},1
+https://zncylzuczeq15wxvp-mailchimp.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_cYLzuCZeQ15WxVP,{'https://mailchimp.com'},1
+//scripts.kissmetrics.com/789c08a013da3c28146d21b31603af344e16f6ef.2.js,{'https://outbrain.com'},1
+//i.kissmetrics.com/i.js,{'https://outbrain.com'},1
+https://js.driftt.com/include/1599429600000/u4mez4bekuvc.js,{'https://outbrain.com'},1
+https://static.ads-twitter.com/uwt.js,{'https://outbrain.com'},1
+https://amplify.outbrain.com/cp/obtp.js,{'https://outbrain.com'},1
+https://script.crazyegg.com/pages/scripts/0021/6084.js?444286,{'https://outbrain.com'},1
+https://snap.licdn.com/li.lms-analytics/insight.min.js,"{'https://asana.com', 'https://outbrain.com'}",2
+https://static.hotjar.com/c/hotjar-17612.js?sv=7,{'https://outbrain.com'},1
+//bat.bing.com/bat.js,"{'https://cbs.com', 'https://asana.com', 'https://outbrain.com', 'https://teacherspayteachers.com'}",4
+//connect.facebook.net/en_US/fbevents.js,"{'https://asana.com', 'https://outbrain.com'}",2
+https://www.googletagmanager.com/gtag/js?id=G-NTFSE0FZ9Y&l=dataLayer&cx=c,{'https://outbrain.com'},1
+https://www.googletagmanager.com/gtm.js?id=GTM-MNMBTC,{'https://outbrain.com'},1
+https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1051255499/?random=1599429397003&cv=9&fst=1599429397003&num=1&label=v2-BCMng8AYQy8Wj9QM&guid=ON&resp=GooglemKTybQhCsO&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_his=11&u_tz=-240&u_java=false&u_nplug=3&u_nmime=4&gtm=2wg8q1&sendb=1&ig=1&frm=0&url=https%3A%2F%2Fwww.outbrain.com%2F&tiba=The%20Open%20Web's%20Discovery%20%26%20Native%20Advertising%20Feed%20%7C%20Outbrain.com&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4,{'https://outbrain.com'},1
+/script.js?version=597c12fe8847,{'https://outbrain.com'},1
+https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js,{'https://outbrain.com'},1
+https://www.outbrain.com/tracking.min.js,{'https://outbrain.com'},1
+https://cdn.krxd.net/userdata/get?pub=69294088-e266-4e48-a352-d2dc2ebae4d3&technographics=1&callback=Krux.ns.thehill.kxjsonp_userdata,{'https://thehill.com'},1
+https://beacon.krxd.net/optout_check?callback=Krux.ns.thehill.kxjsonp_optOutCheck,{'https://thehill.com'},1
+https://s-jsonp.moatads.com/ocr/NATIVOINVCONTENT1/level3/10200?t=2020861711,{'https://thehill.com'},1
+https://consumer.krxd.net/consent/get/69294088-e266-4e48-a352-d2dc2ebae4d3?idt=device&dt=kxcookie&callback=Krux.ns.thehill.kxjsonp_consent_get_0,{'https://thehill.com'},1
+https://m.addthis.com/live/red_lojson/300lo.json?si=5f555b2427589e8b&bkl=0&bl=1&pdt=590&sid=5f555b2427589e8b&pub=ra-4e8f5d7e1bc8befe&rev=v8.28.7-wp&ln=en&pc=men&cb=0&ab=-&dp=thehill.com&fp=&fr=&of=0&pd=0&irt=0&vcl=0&md=0&ct=1&tct=0&abt=0&cdn=0&pi=1&rb=0&gen=100&chr=UTF-8&mk=The%20Hill%2CCapitol%20Hill%2CNewspaper%2CDick%20Morris%2CBusiness%2CLobbying%2CPolitics%2CCampaign%2CPolitical%2CCongress%2CClinton%2CObama%2CCongressional%2CHouse%2CSenate%2CLegislation%2CRoll%20Call%2CLobbyists%2CJuan%20Williams%2CPresidential&colc=1599429414439&jsl=139265&uvs=5f555b24e9637017000&skipb=1&callback=addthis.cbs.jsonp__34919381730165420,{'https://thehill.com'},1
+https://v1.addthisedge.com/live/boost/ra-4e8f5d7e1bc8befe/_ate.track.config_resp,{'https://thehill.com'},1
+//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=566538590082898&version=v2.9,{'https://thehill.com'},1
+//cdn.krxd.net/ctjs/controltag.js.840d44399e357e7da3f94ce724fcd35c,"{'https://thehill.com', 'https://allrecipes.com/', 'https://people.com '}",3
+https://cdn.krxd.net/controltag/sf90wt710.js,{'https://thehill.com'},1
+https://z.moatads.com/addthismoatframe568911941483/moatframe.js,{'https://thehill.com'},1
+//www.google-analytics.com/analytics.js,"{'https://thehill.com', 'https://giphy.com'}",2
+/sites/all/modules/thehill/thehill_header_bidding/js/prebid_3_16_0.js,{'https://thehill.com'},1
+https://ccpa.sp-prod.net/ccpa.js,{'https://thehill.com'},1
+https://mb.moatads.com/yi.js?ud=0&qn=%604%7BZEYwoqI%24%5BK%2BdLLU)%2CMm~tM!90vv9L%24%2FoDb%2Fz(lKm3GFlNUU%2Cu%5Bh_GcS%25%5BHvLU%5B4(K%2B%7BgeFWl_%3DNqUXR%3A%3D%2BAxMn%3Ch%2CyenA8p%2FHm%24%60%233P(ry5*ZRocMp1tq%5BN%7Bq%60RP%3CG.ceFW%7CoG%22mxT%3Bwv%40V374BKm55%3D%261fp%5BoU5tWh%3A(%3Ce%24%26Pzd.jrHSe31k5X%5BG%5E%5B)%2C2iVSX%3C_Y%7B!7IQ3HbmUZzCFm%5Du!x2l.uBlTVU%2F.%3Dh%3Ft%40yUtKC&th=3488809291&tf=nMzjG---CSa7H-XSSptC-j7VIQD-xFQTS-nMzjG-&vi=111111&qp=10000&is=&iv=8&qt=0&gz=1&hh=0&hn=0&tw=null&qc=528&qd=6&qf=1034&qe=708&qh=1050&qg=840&qm=240&qa=1600&qb=900&qi=1600&qj=860&to=00&po=1-0020002000002120&vy=ot%24b%5Bh%40%22oDgO%3DLlE6%3AvyqIY79%22bR9%2F%24bEBE)8%25s18b(N6OiFNm%7DcGDR35*9L%7Bw.Iz%5Dwi%2CB2O%248PNycp1F%2C3TVGX%5E8Y.N%2CzKydjXB3UN%5EMkP&qr=0&url=https%3A%2F%2Fthehill.com%2F&confidence=2&pcode=newscomprebidheader135900089283&callback=MoatNadoAllJsonpRequest_95817201,{'https://thehill.com'},1
+https://z.moatads.com/newscomprebidheader135900089283/yi.js,{'https://thehill.com'},1
+//thehill.com/sites/default/files/js/js_EUEhXWz9sYHRmO0bb7KrpJWOmASRCgalw3yhSaU7VGg.js,{'https://thehill.com'},1
+//thehill.com/sites/default/files/js/js_s3L_uC35AiN5EGYY533su-jccnLRp2aKpOnjgPLbo34.js,{'https://thehill.com'},1
+//thehill.com/sites/default/files/js/js_CU3-wpoRjXqQUzVH_fXkSKR_o43ZvBVuw8S_WXUsfTY.js,{'https://thehill.com'},1
+//thehill.com/sites/default/files/js/js_UlgQwqBztlTNwD8PYNXSwCVbJHJOJiHEsF-8ZKBt8yE.js,{'https://thehill.com'},1
+//thehill.com/sites/default/files/js/js_e-yxM1kseLRira1W37j0zXPOXLY2bv2cLfu80UiNhRk.js,{'https://thehill.com'},1
+//thehill.com/sites/default/files/js/js_2SUL8v-ADjMAY3ItWnTPwqYGbjhTft_U1PW1Dzbf6Vc.js,{'https://thehill.com'},1
+//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e8f5d7e1bc8befe,{'https://thehill.com'},1
+https://fundingchoicesmessages.google.com/f/AGSKWxVq-n-nP6B6AXrfkKEhDkludT2oPEuPl4oF7jep4t4ro12SdxRIyy_8qmnQV0expBWpJU_4HjSJfYq8zDVNG1M=,{'https://thehill.com'},1
+https://jadserve.postrelease.com/t?ntv_url=https%3A%2F%2Fthehill.com%2F&ntv_mvi,{'https://thehill.com'},1
+https://fundingchoicesmessages.google.com/f/AGSKWxVSvbA1v6IBgFCF6h2b_MCr1e9pxE125Svn7pS50ljOYykofeln7Qi6pxzEbd5kEihkS5Ig2DwxQzvVPFwhjFQ=?pvid=B18EC667-533C-4BB9-8916-358AD2EFEBAB&anonid=6D348246-8A2A-4F6C-8606-E6CAC0F896DA&cp=%5Bnull%2C%5B7%5D%5D&gc=%5B%5B%5D%2C%5B%5D%5D&cntrbtr=false&fccs=W251bGwsW1tdLFtdXSxudWxsLG51bGwsbnVsbCwyLFsxNTk5NDI5NDE0LDE3MDAwMDAwXSwiQjE4RUM2NjctNTMzQy00QkI5LTg5MTYtMzU4QUQyRUZFQkFCIiwiNkQzNDgyNDYtOEEyQS00RjZDLTg2MDYtRTZDQUMwRjg5NkRBIixudWxsLFtudWxsLFs3XV1d,{'https://thehill.com'},1
+https://adservice.google.com.pr/adsid/integrator.js?domain=thehill.com,{'https://thehill.com'},1
+https://adservice.google.com/adsid/integrator.js?domain=thehill.com,{'https://thehill.com'},1
+https://s7.addthis.com/static/layers.33f5b85045a5f2308467.js,{'https://thehill.com'},1
+https://tracking.newsmaxfeednetwork.com/pub2/web/widget3.js?zone=%5BZONE%5D&widget_key=bn75TWX4O573bji1xoe95X&widget_num=1&url=https%3A%2F%2Fthehill.com%2F&nocache=1599429415423&is_data_url_set=false&gdpr=&gdpr_consent=?zone=%5BZONE%5D&widget_key=bn75TWX4O573bji1xoe95X&widget_num=1&url=https%3A%2F%2Fthehill.com%2F&nocache=1599429415423&is_data_url_set=false&gdpr=&gdpr_consent=&gdpr=&gdpr_consent=,{'https://thehill.com'},1
+https://fundingchoicesmessages.google.com/f/AGSKWxVgNi6nXPwgvc5GuS2qY3Dilzktaa14JlDJx-r2ba6dHNydU1GpRCV__tZNR_tSCTfyRXp45mzNxf0Gi2xxdQC1TBfv08Vy1dJPBARi0Q7oyJUB1W5QYSPdiLExuTlVErl1f45CwaMR9wA6FA4EV0rCQFzoY1FZY-87X8cqYT5t0sZOLyUX2sKqgZoS?cp=%5B1%2C%5B7%2C6%5D%5D&gc=%5B%5B%5D%2C%5B%5D%5D&cntrbtr=false&fccs=W251bGwsW1tdLFtdXSxudWxsLG51bGwsbnVsbCwyLFsxNTk5NDI5NDE5LDQ3NjAwMDAwMF0sbnVsbCxudWxsLG51bGwsWzEsWzcsNl1dXQ,{'https://thehill.com'},1
+//cdn.connatix.com/min/connatix.renderer.infeed.min.js,{'https://thehill.com'},1
+//platform.twitter.com/widgets.js,{'https://thehill.com'},1
+//static.chartbeat.com/js/chartbeat.js,{'https://thehill.com'},1
+//z.moatads.com/nativonielsen548znrb18/moatcontent.js?moatClientLevel1=10200,{'https://thehill.com'},1
+https://static.hotjar.com/c/hotjar-658253.js?sv=7,{'https://teacherspayteachers.com'},1
+//cdn3.optimizely.com/js/geo2.js,{'https://teacherspayteachers.com'},1
+//static.simonsignal.com/simon-tpt-min.js,{'https://teacherspayteachers.com'},1
+//www.googletagmanager.com/gtm.js?id=GTM-TB2R3M,{'https://teacherspayteachers.com'},1
+https://cdn.heapanalytics.com/js/heap-3064244106.js,{'https://teacherspayteachers.com'},1
+https://cdn.optimizely.com/js/11000223989.js,{'https://teacherspayteachers.com'},1
+https://static1.teacherspayteachers.com/tpt-frontend/releases/production/current/tpt-frontend.HomePage-jsx.605f423e361c1b543e4e.js,{'https://teacherspayteachers.com'},1
+https://static1.teacherspayteachers.com/tpt-frontend/releases/production/current/tpt-frontend.Drawer.8cb6cd0344c066845598.js,{'https://teacherspayteachers.com'},1
+https://script.hotjar.com/modules.bea1968def3c3b64afc1.js,"{'https://asana.com', 'https://teacherspayteachers.com'}",2
+//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=276243805774561,{'https://teacherspayteachers.com'},1
+https://static1.teacherspayteachers.com/tpt-frontend/releases/production/current/tpt-frontend.init.7e33b38351abf16bcaea.js,{'https://teacherspayteachers.com'},1
+https://static1.teacherspayteachers.com/tpt-frontend/releases/production/current/tpt-frontend.responsiveGrid.0c016c5a3664e934e562.js,{'https://teacherspayteachers.com'},1
+https://static1.teacherspayteachers.com/tpt-frontend/releases/production/current/tpt-frontend.legacyGrid.c3ecf0dfb7445a32f47c.js,{'https://teacherspayteachers.com'},1
+https://static1.teacherspayteachers.com/tpt-frontend/releases/production/current/tpt-frontend.vendor.a6b9b51dd5afc4e98679.js,{'https://teacherspayteachers.com'},1
+https://static1.teacherspayteachers.com/tpt-frontend/releases/production/current/tpt-frontend.main.165a51871efaaef15b19.js,{'https://teacherspayteachers.com'},1
+https://www.google-analytics.com/gtm/js?id=GTM-NX2VLXS&t=gtm3&cid=2045333432.1599429468,{'https://giphy.com'},1
+//www.googletagmanager.com/gtm.js?id=GTM-P5GCKB,{'https://giphy.com'},1
+//connect.facebook.net/en_US/sdk.js#version=v2.1&xfbml=1&appId=406655189415060,{'https://giphy.com'},1
+https://www.googleadservices.com/pagead/conversion/977199448/?random=1599429465715&cv=9&fst=1599429465715&num=1&value=0&label=XS1vCNDVmV0Q2ML70QM&guid=ON&resp=GooglemKTybQhCsO&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_his=14&u_tz=-240&u_java=false&u_nplug=3&u_nmime=4&gtm=2wg8q1&sendb=1&ig=1&frm=0&url=https%3A%2F%2Fgiphy.com%2F&tiba=GIPHY%20%7C%20Search%20All%20the%20GIFs%20%26%20Make%20Your%20Own%20Animated%20GIF&hn=www.googleadservices.com&bttype=purchase&async=1&rfmt=3&fmt=4,{'https://giphy.com'},1
+/static/dist/homepageBeta.d1ce33cc.bundle.js,{'https://giphy.com'},1
+/static/dist/runtime.cd4e242e.bundle.js,{'https://giphy.com'},1
+/static/dist/desktopVendor.8c142a8f.bundle.js,{'https://giphy.com'},1
+/static/dist/desktopCommon.c9f4cb1a.bundle.js,{'https://giphy.com'},1
+/static/dist/desktopEntry.40c78e4b.bundle.js,{'https://giphy.com'},1
+https://trc.taboola.com/1147757/trc/3/json?tim=1599429510782&data=%7B%22id%22%3A723%2C%22ii%22%3A%22%2F%22%2C%22it%22%3A%22video%22%2C%22sd%22%3Anull%2C%22ui%22%3A%22a56352b7-7481-471b-b0b8-bb623b982b01-tuct64ee102%22%2C%22vi%22%3A1599429509639%2C%22cv%22%3A%2220200818-2-RELEASE%22%2C%22uiv%22%3A%22default%22%2C%22u%22%3A%22https%3A%2F%2Fwww.sfgate.com%2F%22%2C%22e%22%3Anull%2C%22cb%22%3A%22TFASC.trkCallback%22%2C%22qs%22%3A%22%22%2C%22r%22%3A%5B%7B%22li%22%3A%22rbox-tracking%22%2C%22s%22%3A0%2C%22uim%22%3A%22rbox-tracking%3Apub%3Dhearstnewspapersus-sc%3Aabp%3D0%22%2C%22uip%22%3A%22rbox-tracking%22%2C%22orig_uip%22%3A%22rbox-tracking%22%7D%5D%2C%22supv%22%3Atrue%2C%22mpv%22%3Atrue%7D&pubit=i,{'https://sfgate.com'},1
+https://trc.taboola.com/hearstlocalnews-sfgatecom/trc/3/json?tim=17%3A58%3A29.657&lti=taboola_reminder_varA&data=%7B%22id%22%3A783%2C%22ii%22%3A%22_homepage_%22%2C%22it%22%3A%22home%22%2C%22sd%22%3Anull%2C%22ui%22%3A%22a56352b7-7481-471b-b0b8-bb623b982b01-tuct64ee102%22%2C%22uifp%22%3Anull%2C%22lbt%22%3A1599397995458%2C%22vi%22%3A1599429509639%2C%22cv%22%3A%2220200827-17_b5-PR-27413-DEV-67326-refactor-next-up-for-tbl-reminder-productization-ace4e6797c9-SNAPSHOT%22%2C%22uiv%22%3A%22default%22%2C%22u%22%3A%22https%3A%2F%2Fwww.sfgate.com%2F%22%2C%22bv%22%3A%220%22%2C%22ul%22%3A%5B%22en-US%22%2C%22en%22%5D%2C%22pev%22%3A3659%2C%22ccpa_ps%22%3A%221---%22%2C%22btv%22%3A%220%22%2C%22cos%22%3A%224g%22%2C%22bad%22%3A-1%2C%22sw%22%3A1600%2C%22sh%22%3A860%2C%22bw%22%3A1034%2C%22sde%22%3A%221.000%22%2C%22bh%22%3A708%2C%22dw%22%3A1017%2C%22dh%22%3A7859%2C%22nsid%22%3A%22hearstlocalnews-network%22%2C%22r%22%3A%5B%7B%22li%22%3A%22rbox-h2m%22%2C%22s%22%3A4%2C%22uim%22%3A%22thumbnails-d%3Apub%3Dhearstlocalnews-network%3Aabp%3D0%22%2C%22uip%22%3A%22Mid%20Content%20Thumbnails%20-%20Redesign%22%2C%22orig_uip%22%3A%22Mid%20Content%20Thumbnails%20-%20Redesign%22%2C%22cd%22%3A5703.25%2C%22mw%22%3A638.65625%7D%5D%2C%22cb%22%3A%22TRC.callbacks.recommendations_1%22%2C%22lt%22%3A%22taboola_reminder_varA%22%7D,{'https://sfgate.com'},1
+https://api-us-east.zqtk.net/hearst-f83j1c?url=https%3A%2F%2Fwww.sfgate.com%2F,{'https://sfgate.com'},1
+https://prepareplanes.com/v2/0/jbmtLz0jyBQItN43Nijh8-dvYbLsr_SVCvKL_jAtJQvTLPlhlF7QrxHROZhq4EX0329,{'https://sfgate.com'},1
+https://nexus.ensighten.com/hearst/news/code/aa6c47aaee40e20687ad7f0c77ed72bd.js?conditionId0=304054,{'https://sfgate.com'},1
+https://nexus.ensighten.com/hearst/news/code/04d2e287c927023649ae0d62d130c4dd.js?conditionId0=306993,{'https://sfgate.com'},1
+//nr-events.taboola.com/newsroom/1.0/hearstlocalnews-sfgatecom/get-action?page.url=https%3A%2F%2Fwww.sfgate.com%2F&view.id=660166344571707872&page.template=home&page.dashboard=home,{'https://sfgate.com'},1
+https://nexus.ensighten.com/hearst/news/serverComponent.php?r=0.5137153612209981&namespace=Bootstrapper&staticJsPath=nexus.ensighten.com/hearst/news/code/&publishedOn=Wed Sep 02 18:51:40 GMT 2020&ClientID=109&PageID=https%3A%2F%2Fwww.sfgate.com%2F,{'https://sfgate.com'},1
+//c2.taboola.com/nr/hearstlocalnews-sfgatecom/newsroom.js,{'https://sfgate.com'},1
+https://scripts.webcontentassessor.com/scripts/1cbbeea35302b334c17ec7de41048b19077c3452b8825fa3017876cf49d877c2,{'https://sfgate.com'},1
+/hdn/dynamic/hnpprivacy-min.js,{'https://sfgate.com'},1
+https://aps.hearstnp.com/SRO/GetJS?url=www.sfgate.com,{'https://sfgate.com'},1
+/external/js/global.sectionPages.v10.8.0.js,{'https://sfgate.com'},1
+https://treg.hearstnp.com/assets/0x7F1EEC0BF0CEAC5562CC6F75ACB21877D6AD8763/GetJS?url=www.sfgate.com,{'https://sfgate.com'},1
+//yield-manager.browsiprod.com/supply/v4?sk=sfgate&url=https%3A%2F%2Fwww.sfgate.com%2F&bid=HFBdWmKEeX&c=__bgscb_NvjQIklBok&at=SFGATE%3A%20San%20Francisco%20Bay%20Area%20-%20News%2C%20Bay%20Area%20news%2C%20Sports%2C%20Business%2C%20Entertainment%2C%20Classifieds%20-%20SFGate&sw=1600&sh=900&cd=%7B%22ec%22%3Afalse%2C%22uc%22%3Atrue%7D&rp=false,{'https://sfgate.com'},1
+https://adservice.google.com.pr/adsid/integrator.js?domain=www.sfgate.com,{'https://sfgate.com'},1
+https://adservice.google.com/adsid/integrator.js?domain=www.sfgate.com,{'https://sfgate.com'},1
+https://jadserve.postrelease.com/t?ntv_url=https%3A%2F%2Fwww.sfgate.com%2F&ntv_mvi&us_privacy=1---,{'https://sfgate.com'},1
+//embed.sendtonews.com/player3/embedcode.js?fk=IVjO2zk3&cid=9617&offsetx=0&offsety=0&floatwidth=400&floatposition=bottom-right,{'https://sfgate.com'},1
+https://realm.hearst3pcc.com/utility/C3P0_RealmCookie?host=www.sfgate.com&operation=create&cb=1599429504141,{'https://sfgate.com'},1
+https://realm.hearst3pcc.com/utility/C3P0_RealmCookie?host=www.sfgate.com&operation=check&cb=1599429506514,{'https://sfgate.com'},1
+https://saa.cbs.com/b/ss/cnetcbscomsite/10/JS-2.14.0/s55880989388137?AQB=1&ndh=1&pf=1&callback=s_c_il[0].doPostbacks&et=1&t=6%2F8%2F2020%2017%3A59%3A40%200%20240&d.&nsid=0&jsonv=1&.d&sdid=05593D86C9E6A83C-1BEFE5FD72E9F761&mid=28258125115624346841954082584567850813&aamlh=7&ce=UTF-8&ns=cbsinteractive&pageName=cbscom%3A%2F&g=https%3A%2F%2Fwww.cbs.com%2F&c.&userType=ANON&userStatus=sb%7C0&brandPlatformId=cbscom_site_desktop&showGenre=other&contentBrand=na&pageTitle=CBS%20TV%20Network%20Primetime%2C%20Daytime%2C%20Late%20Night%20and%20Classic%20Television%20Shows&siteEdition=us&pageUrl=https%3A%2F%2Fwww.cbs.com%2F&sitePrimaryRsid=cnetcbscomsite&pageType=front_door&pageViewGuid=e3f00312-3956-44e5-921a-ebc1ce9731dd&siteHier=front_door&siteType=responsive%20web%7C%7C%7Cdesktop&cm.&ssf=0&.cm&.c&cc=USD&ch=front_door&server=www.cbs.com&aamb=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&h1=cbscom%3Afront_door&c4=D%3Dv4&v4=direct&v9=D%3DUser-Agent&c11=D%3Dv11&v11=D%3Dch%2B%22%3A%22%2Bv10&s=1600x900&c=24&j=1.6&v=N&k=Y&bw=1034&bh=708&mcorgid=10D31225525FF5790A490D4D%40AdobeOrg&AQE=1,{'https://cbs.com'},1
+https://www.googleadservices.com/pagead/conversion_async.js,{'https://cbs.com'},1
+https://www.googletagmanager.com/gtag/js?id=AW-730748066&l=dataLayer&cx=c,{'https://cbs.com'},1
+https://www.googletagmanager.com/gtag/js?id=AW-995028753&l=dataLayer&cx=c,{'https://cbs.com'},1
+https://sb.scorecardresearch.com/c2/3005086/cs.js,{'https://cbs.com'},1
+https://sc-static.net/scevent.min.js,{'https://cbs.com'},1
+https://connect.facebook.net/signals/config/643986219080079?v=2.9.24&r=stable,{'https://cbs.com'},1
+//zz.connextra.com/dcs/tagController/tag/66454da6e2ce/homepage,{'https://cbs.com'},1
+//d.impactradius-event.com/A121062-2406-4629-b67b-8529a30308bc1.js,{'https://cbs.com'},1
+//zn_55bdrev4af0c1yl-cbs.siteintercept.qualtrics.com/WRSiteInterceptEngine/?pageViewGuid=e3f00312-3956-44e5-921a-ebc1ce9731dd&Q_ZID=ZN_55Bdrev4Af0C1yl&Q_LOC=https%3A%2F%2Fwww.cbs.com%2F,{'https://cbs.com'},1
+https://www.googletagmanager.com/gtag/js?id=DC-6441934,{'https://cbs.com'},1
+//radar.cedexis.com/1/10787/radar.js,{'https://cbs.com'},1
+https://doppler-config.cbsivideo.com/doppler.js,{'https://cbs.com'},1
+https://cdn.branch.io/branch-latest.min.js,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.js,{'https://cbs.com'},1
+/assets/build/js/core-3e9f0e4e31e891a7f1b3.min.js,{'https://cbs.com'},1
+https://cdn.cookielaw.org/scripttemplates/6.5.0/otBannerSdk.js,"{'https://cbs.com', 'https://allrecipes.com/', 'https://people.com '}",3
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.503.js?utv=ut4.39.202008242255,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=cbsi/cbscomsite/202008312216&cb=1599429579031,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.405.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.20.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.369.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.416.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.389.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.464.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.407.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.453.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.465.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.265.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.321.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.475.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//tags.tiqcdn.com/utag/cbsi/cbscomsite/prod/utag.476.js?utv=ut4.39.202008312216,{'https://cbs.com'},1
+//dw.cbsi.com/anonc.js,{'https://cbs.com'},1
+https://googleads.g.doubleclick.net/pagead/viewthroughconversion/995028753/?random=1599429580603&cv=9&fst=1599429580603&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_his=16&u_tz=-240&u_java=false&u_nplug=3&u_nmime=4&gtm=2oa8q1&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.cbs.com%2F&tiba=CBS%20TV%20Network%20Primetime%2C%20Daytime%2C%20Late%20Night%20and%20Classic%20Television%20Shows&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4,{'https://cbs.com'},1
+https://googleads.g.doubleclick.net/pagead/viewthroughconversion/995028753/?random=1599429580631&cv=9&fst=1599429580631&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_his=16&u_tz=-240&u_java=false&u_nplug=3&u_nmime=4&gtm=2oa8q1&sendb=1&ig=1&data=event%3Dpage_view&frm=0&url=https%3A%2F%2Fwww.cbs.com%2F&tiba=CBS%20TV%20Network%20Primetime%2C%20Daytime%2C%20Late%20Night%20and%20Classic%20Television%20Shows&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4,{'https://cbs.com'},1
+https://googleads.g.doubleclick.net/pagead/viewthroughconversion/995028753/?random=1599429580640&cv=9&fst=1599429580640&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=376635471&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_his=16&u_tz=-240&u_java=false&u_nplug=3&u_nmime=4&gtm=2oa8q1&sendb=1&ig=1&data=event%3Dpage_view&frm=0&url=https%3A%2F%2Fwww.cbs.com%2F&tiba=CBS%20TV%20Network%20Primetime%2C%20Daytime%2C%20Late%20Night%20and%20Classic%20Television%20Shows&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4,{'https://cbs.com'},1
+https://googleads.g.doubleclick.net/pagead/viewthroughconversion/730748066/?random=1599429580658&cv=9&fst=1599429580658&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_his=16&u_tz=-240&u_java=false&u_nplug=3&u_nmime=4&gtm=2oa8q1&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.cbs.com%2F&tiba=CBS%20TV%20Network%20Primetime%2C%20Daytime%2C%20Late%20Night%20and%20Classic%20Television%20Shows&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4,{'https://cbs.com'},1
+https://googleads.g.doubleclick.net/pagead/viewthroughconversion/730748066/?random=1599429580664&cv=9&fst=1599429580664&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_his=16&u_tz=-240&u_java=false&u_nplug=3&u_nmime=4&gtm=2oa8q1&sendb=1&ig=1&data=event%3Dpage_view&frm=0&url=https%3A%2F%2Fwww.cbs.com%2F&tiba=CBS%20TV%20Network%20Primetime%2C%20Daytime%2C%20Late%20Night%20and%20Classic%20Television%20Shows&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4,{'https://cbs.com'},1
+/assets/build/js/homepage-fa01989c5c37165ac2c7.min.js,{'https://cbs.com'},1
+//production-cmp.isgprivacy.cbsi.com/dist/optanon.js,{'https://cbs.com'},1
+https://sa.placelocal.com/e?e=HomePageVisited&brand=cbsinteractive&partition=cbsinteractive&cb=0.6030643371038009&refurl=undefined,{'https://cbs.com'},1
+https://sync.placelocal.com/syncdatapartnersjs?initiator=cbsinteractive,{'https://cbs.com'},1
+//gateway.foresee.com/sites/cvs/production/gateway.min.js,{'https://cvs.com'},1
+//cdn.quantummetric.com/qscripts/quantum-cvs.js,{'https://cvs.com'},1
+//tags.tiqcdn.com/utag/cvs/cvs/prod/utag.js,{'https://cvs.com'},1
+https://se.monetate.net/js/3/a-815a421c/p/cvs.com/t1597829442/3ada92c7d4ebd0fd/custom.js,{'https://cvs.com'},1
+https://code.jquery.com/jquery-3.3.1.min.js,{'https://cvs.com'},1
+//se.monetate.net/js/2/a-815a421c/p/cvs.com/entry.js,{'https://cvs.com'},1
+https://cdn.groupbycloud.com/cvs/gb-autocomplete-v2.js,{'https://cvs.com'},1
+"https://ad.monetate.net/trk/4/s/a-815a421c/p/cvs.com/1784120007-0?mr=t1597829442&mi='2.565783885.1599429619455'&cs=!t&e=!(viewPage,gr,gt)&pt=main&cv=(login:false)&r=''&sw=1600&sh=900&sc=24&j=!f&tg=!(!(36576,'0174656f323a001def21f3ee4e0503072001406a009dc'))&u='https://www.cvs.com/'&fl=!f&hvc=!t&eoq=!t",{'https://cvs.com'},1
+//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=cvs/cvs/202009022032&cb=1599429622298,{'https://cvs.com'},1
+https://sb.monetate.net/img/1/p/306/1798578.css/monetate.c.cr.js,{'https://cvs.com'},1
+/webcontent/ngx-home/runtime.5a7c6c9ad0623e2346ad.js,{'https://cvs.com'},1
+/webcontent/ngx-home/polyfills.b4fe7a54d050a2bf4717.js,{'https://cvs.com'},1
+/webcontent/ngx-home/main.48ead9f7d8a3a2218aaa.js,{'https://cvs.com'},1
+https://certify-js.alexametrics.com/atrk.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/bolt-main/app/bolt-custom-elements.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-perf-measure/1.208.0/wix-perf-measure.bundle.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/tag-manager-client/1.126.0/siteTags.bundle.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/bolt-main/app/main-r.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/lodash@4.17.15/lodash.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/bolt-main/app/bolt-main-r.vendors~init.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/bolt-main/app/bolt-main-r.init.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/bolt-main/app/bolt-main-r.vendors~animations.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/bolt-main/app/bolt-main-r.animations.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/warmupUtils/warmupUtils.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/zepto@1.2.0/dist/zepto.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/wix-ui-santa@2.0.108/dist/statics/dataRefs.bundle.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-core-utils@1.2668.0/dist/warmupUtils.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/image-client-api@1.3875.0/dist/imageClientApi.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-bundle@1.1059.0/dist/bundle.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-skin-utils@1.1680.0/dist/skin-utils.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/thirdPartyAnalytics/thirdPartyAnalytics.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/skins/skins.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-mobile-core@1.1207.0/dist/mobileLayoutUtils.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/data-capsule@1.0.83/dist/statics/frame-listener.bundle.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-core-utils@1.2668.0/dist/coreUtils.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/coreUtils/coreUtils.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/wixFreemiumBanner/wixFreemiumBanner.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/tpaComponents/tpaComponents.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/textCommon/textCommon.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/skinExports/skinExports.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-components@1.1937.0/dist/santa-components.prod.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/pm-rpc@1.0.14/build/pm-rpc.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/imageZoom/imageZoom.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/galleriesCommon/galleriesCommon.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/displayer/displayer.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/backgroundCommon/backgroundCommon.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/componentsCore/componentsCore.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/bolt-components/dist/bolt-components.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/components/components.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/wix-dom-sanitizer@1.770.0/dist/wix-dom-sanitizer.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/node_modules/wix-santa/dist/packages-bin/layout/layout.min.js,{'https://diply.com'},1
+https://static.parastorage.com/services/wix-bolt/1.6576.0/bolt-main/app/bolt-main-prod.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-external-modules@1.642.0/tweenmax-plugins/3.1.1-transition-phase/gsap.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-animations@1.483.0/dist/santa-animations.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-external-modules@1.642.0/tweenmax-plugins/3.1.1-transition-phase/ScrollToPlugin.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-components@1.1937.0/dist/santa-components-layout.prod.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/wix-ui-santa@2.0.108/dist/statics/viewerComponentService.bundle.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/wix-ui-santa@2.0.108/dist/statics/overrides.bundle.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/xss@0.2.12/dist/xss.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/wix-ui-santa@2.0.108/dist/statics/dataRefs.bundle.min.js,{'https://diply.com'},1
+https://static.parastorage.com/unpkg/santa-external-modules@1.642.0/color-convert/0.2.0/color.min.js,{'https://diply.com'},1
+https://beacon.krxd.net/cookie2json?callback=Krux.ns.meredith.kxjsonp_3pevents,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://tagan.adlightning.com/meredith/bl-9a4f7ce-9e4e17a3.js,{'https://allrecipes.com/'},1
+https://tagan.adlightning.com/meredith/b-9a4f7ce-2a6bd1c9.js,{'https://allrecipes.com/'},1
+https://consumer.krxd.net/consent/set/1b008fc9-b074-4b2e-8e4a-c1e1f07d344b?idt=device&dt=kxcookie&dc=1&al=1&tg=1&cd=1&sh=1&re=1&callback=Krux.ns.meredith.kxjsonp_consent_set_1,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://consumer.krxd.net/consent/get/1b008fc9-b074-4b2e-8e4a-c1e1f07d344b?idt=device&dt=kxcookie&callback=Krux.ns.meredith.kxjsonp_consent_get_0,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://insights.bizrate.com/js/init.js,{'https://allrecipes.com/'},1
+https://script.crazyegg.com/pages/versioned/common-scripts/11.1.68.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://script.crazyegg.com/pages/scripts/0080/6699.js?444286,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://www.googletagmanager.com/gtm.js?id=GTM-N3NQL5&l=dataLayer,{'https://allrecipes.com/'},1
+https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/meredithOneTrustGeoloc,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://karma.mdpcdn.com/service/js-min/karma.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/main.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+//native.sharethrough.com/assets/sfp.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://cdn.segment.com/analytics.js/v1/RnmsxUrjIjM7W62olfjKgJrcsVlxe68V/analytics.min.js,{'https://allrecipes.com/'},1
+https://cdn.selectablemedia.com/tg/p/ioRpChND/js/sm_uber.js,{'https://allrecipes.com/'},1
+https://cdn.krxd.net/controltag/H1gAR3V7.js,{'https://allrecipes.com/'},1
+https://qpsftq5jqg.execute-api.us-east-1.amazonaws.com/production/segments?muid=bd5e8dfb-2176-4353-a937-4ffc700dcc97,{'https://allrecipes.com/'},1
+/dist/66-66.js,{'https://allrecipes.com/'},1
+/dist/2-2.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/15-15.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/7-7.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/24-24.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/11-11.js,{'https://allrecipes.com/'},1
+/dist/18-18.js,{'https://allrecipes.com/'},1
+/dist/4-4.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/42-42.js,{'https://allrecipes.com/'},1
+/dist/3-3.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/43-43.js,{'https://allrecipes.com/'},1
+/dist/6-6.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/12-12.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/13-13.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/0-0.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/25-25.js,{'https://allrecipes.com/'},1
+/dist/46-46.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/50-50.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/1-1.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+/dist/5-5.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://js-sec.indexww.com/ht/p/184003-107126101239980.js,{'https://allrecipes.com/'},1
+https://tagan.adlightning.com/meredith/op.js,{'https://allrecipes.com/'},1
+https://session.timecommerce.net/v1/s?c=_cb_ls%3D1%3B%20mdp.privacy.loc%3D0%3B%20globalTI_SID%3Dbd5e8dfb-2176-4353-a937-4ffc700dcc97%3B%20last_request_id%3D%3B%20request_id%3D919c8676-d24c-4b5f-bf32-6cbbfdda9e00%3B%20previous_ts%3D%3B%20visit_ts%3D1599429709635%3B%20pageview_count%3D1%3B%20ajs_anonymous_id%3D%2522cf93161c-5b12-4f1d-9dea-d4655bad241c%2522%3B%20AMP_TOKEN%3D%2524RETRIEVING%3B%20_gcl_au%3D1.1.1146777926.1599429712%3B%20muuid_no_hid%3Dyes%3B%20muuid_link%3Dac92ae0f-03cd-4087-8e20-09ab9845ed90%3B%20muuid_session%3Dd0edf661-29c2-4af1-b47c-5b257a2e2be2%3B%20muuid_current_channel%3Ddirect&url=https%3A%2F%2Fwww.allrecipes.com%2F&pixel=bd5e8dfb-2176-4353-a937-4ffc700dcc97&tz=america%2Fla_paz&tz_offset=-4&brand=Allrecipes&cms_id=8094560&request_id=ac92ae0f-03cd-4087-8e20-09ab9845ed90,{'https://allrecipes.com/'},1
+https://chirp.bizrate.com/sync.js?tc=bd5e8dfb-2176-4353-a937-4ffc700dcc97&u=https%3A%2F%2Fwww.allrecipes.com%2F&r=,{'https://allrecipes.com/'},1
+https://tag.bounceexchange.com/2602/i.js,{'https://allrecipes.com/'},1
+https://resource.bizrate.com/static/c04da681/dist/main.js,{'https://allrecipes.com/'},1
+//api.sele.co/ub/v1.jsonp?ka_channel=homepage&ka_sch=&ka_ctype=food&ka_id=8094560&ka_type=homepage&ka_abTest=mdextest&ka_collapseall=&ka_pv=1&ka_geo=0&ka_otgeo=0&ka_muid=bd5e8dfb-2176-4353-a937-4ffc700dcc97&ka_mrid=ac92ae0f-03cd-4087-8e20-09ab9845ed90&ka_gaid=1797108023.1599429714&ka_dockedleaderboard=false&ka_dockedrail=true&debugLevel=5&sm_os=Windows&sm_plt=mouse&sm_brw=Chrome&sm_pr=1&sm_w=1017&sm_h=708&sm_o=l&sm_pb=ioRpChND&=undefined&ka_concepts[]=&ka_taxons[]=&ka_mtax[]=&utid=1599429714103&loc=https%3A%2F%2Fwww.allrecipes.com%2F&ref=&sm_cb=smpubApiioRpChND12311365,{'https://allrecipes.com/'},1
+https://adservice.google.com.pr/adsid/integrator.js?domain=www.allrecipes.com,{'https://allrecipes.com/'},1
+https://adservice.google.com/adsid/integrator.js?domain=www.allrecipes.com,{'https://allrecipes.com/'},1
+https://b-code.liadm.com/sync-container.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://z-na.associates-amazon.com/onetag/v2?MarketPlace=US&adInstanceId=f35730ab-1bbd-47ee-bee5-236d6583c1a4,{'https://allrecipes.com/'},1
+https://cdn.p-n.io/pushly-sdk.min.js?domain_key=1s505zJTcPgEUiiSrtvjQaixszhrrYRtqwpR,{'https://allrecipes.com/'},1
+//b-code.liadm.com/a-01b5.min.js,{'https://allrecipes.com/'},1
+https://s.skimresources.com/js/58287X1607752.skimlinks.js,{'https://allrecipes.com/'},1
+//assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_946b54cb60430d70ff65ac451055212b.js,"{'https://allrecipes.com/', 'https://people.com '}",2
+https://www.googletagmanager.com/gtag/js?id=DC-6631903,{'https://walgreens.com'},1
+https://se.monetate.net/js/3/a-ca4ba9c7/p/walgreens.com/t1598427974/ac461de77a13f9fa/custom.js,{'https://walgreens.com'},1
+/dthandler/ruxitagentjs_ICA2SVfhqru_10199200831173248.js,{'https://walgreens.com'},1
+https://www.walgreens.com/akam/11/38550ab7,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/scripts/satellite-5a3c9dde64746d0f920007e0.js,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/scripts/satellite-5a54963164746d4afe000bc9.js,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/scripts/satellite-5c45f17364746d728c01ffa5.js,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/scripts/satellite-5bae37d164746d56bd004dd8.js,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/scripts/satellite-5bde5e4864746d016d00116a.js,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/scripts/satellite-5d8c55b964746d39b90000a0.js,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/s-code-contents-43af2190c6ef307d1830467afa46788a6cc81228.js,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/scripts/satellite-5b7eaeeb64746d2bd6008d6c.js,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/scripts/satellite-5de523cb64746d7a98000104.js,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/scripts/satellite-5cf7dd3864746d4a4f003380.js,{'https://walgreens.com'},1
+https://www.wag-static.com/common/react/assets/client_bundle_header_lsg3-279fbce5bf3a71adb685.js?o=acs,{'https://walgreens.com'},1
+https://www.wag-static.com/topic/react/assets/client_bundle-ee823d78b903cd37fb9d.js?o=acs,{'https://walgreens.com'},1
+https://www.wag-static.com/common/react/assets/client_bundle_footer_lsg3-fb9919b1ec9032173ead.js?o=acs,{'https://walgreens.com'},1
+https://www.wag-static.com/common/react/assets/script.min.js?o=acs,{'https://walgreens.com'},1
+https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/satelliteLib-57a6bdc919f03b4be4d2cb262bbf5c86762a76b9.js,{'https://walgreens.com'},1
+https://se.monetate.net/js/2/a-ca4ba9c7/p/walgreens.com/entry.js,{'https://walgreens.com'},1
+/assets/a581046fui1796cadb646bfa77ff0d,{'https://walgreens.com'},1
+https://cdn.krxd.net/userdata/get?pub=1b008fc9-b074-4b2e-8e4a-c1e1f07d344b&technographics=1&callback=Krux.ns.meredith.kxjsonp_userdata,{'https://people.com '},1
+https://s0.2mdn.net/instream/video/client.js,{'https://people.com '},1
+https://beacon.krxd.net/optout_check?callback=Krux.ns.meredith.kxjsonp_optOutCheck,{'https://people.com '},1
+https://connect.facebook.net/signals/config/1576393572602771?v=2.9.24&r=stable,{'https://people.com '},1
+https://connect.facebook.net/signals/config/1116875315074656?v=2.9.24&r=stable,{'https://people.com '},1
+https://www.google-analytics.com/gtm/js?id=GTM-W4NW668&cid=1458341912.1599429848,{'https://people.com '},1
+https://www.googletagmanager.com/gtm.js?id=GTM-K8GZZJG&l=dataLayer,{'https://people.com '},1
+https://cdn.krxd.net/controltag/stius1a3a.js,{'https://people.com '},1
+https://cdn.segment.com/analytics.js/v1/UPBFYM4INmSPtgVRi8bovFpjlLk7VN1r/analytics.min.js,{'https://people.com '},1
+https://cdn.selectablemedia.com/tg/p/exskEZha/js/sm_uber.js,{'https://people.com '},1
+https://qpsftq5jqg.execute-api.us-east-1.amazonaws.com/production/segments?muid=b8c02f12-fae7-48fa-917e-5cfb0ab6e9a1,{'https://people.com '},1
+https://js-sec.indexww.com/ht/p/184003-36757357116631.js,{'https://people.com '},1
+/dist/71-71.js,{'https://people.com '},1
+/dist/14-14.js,{'https://people.com '},1
+/dist/9-9.js,{'https://people.com '},1
+/dist/17-17.js,{'https://people.com '},1
+/dist/8-8.js,{'https://people.com '},1
+/dist/45-45.js,{'https://people.com '},1
+/dist/40-40.js,{'https://people.com '},1
+/dist/26-26.js,{'https://people.com '},1
+/dist/47-47.js,{'https://people.com '},1
+/dist/16-16.js,{'https://people.com '},1
+/dist/39-39.js,{'https://people.com '},1
+https://tag.bounceexchange.com/1373/i.js,{'https://people.com '},1
+https://cdn-gl.imrworldwide.com/novms/js/2/nlsDcrLite510.min.js#nol_apid=PB2A7F0B1-6893-4453-9920-1C60C1CA9D42&nol_sfcode=dcr&nol_apn=peopleCOM&nol_ci=us-100120&nol_vc=c33&nol_assetname=homepage,{'https://people.com '},1
+https://session.timecommerce.net/v1/s?c=_cb_ls%3D1%3B%20globalTI_SID%3Db8c02f12-fae7-48fa-917e-5cfb0ab6e9a1%3B%20mdp.privacy.loc%3D0%3B%20ajs_anonymous_id%3D%25225e09bc97-452d-4b86-839e-8c198dab493c%2522%3B%20last_request_id%3D%3B%20request_id%3Dca55bdb6-497d-4573-afe8-060c395d751d%3B%20previous_ts%3D%3B%20visit_ts%3D1599429846520%3B%20pageview_count%3D1%3B%20_ga%3DGA1.2.1458341912.1599429848%3B%20_gid%3DGA1.2.2060943656.1599429848%3B%20_gcl_au%3D1.1.2132277724.1599429848%3B%20muuid_no_hid%3Dyes%3B%20muuid_link%3D9d0728c8-8626-4fc2-9469-82204d02c94c%3B%20muuid_session%3D482eaf6c-0888-4614-a766-61fd5d303a73%3B%20muuid_current_channel%3Ddirect&url=https%3A%2F%2Fpeople.com%2F&pixel=b8c02f12-fae7-48fa-917e-5cfb0ab6e9a1&tz=america%2Fla_paz&tz_offset=-4&brand=PEOPLE.com&cms_id=10037475&request_id=9d0728c8-8626-4fc2-9469-82204d02c94c,{'https://people.com '},1
+https://pippio.com/api/sync?pid=8240&it=1&iv=b8c02f12-fae7-48fa-917e-5cfb0ab6e9a1,{'https://people.com '},1
+https://chirp.bizrate.com/sync.js?tc=b8c02f12-fae7-48fa-917e-5cfb0ab6e9a1&u=https%3A%2F%2Fpeople.com%2F&r=,{'https://people.com '},1
+//cdn-magiclinks.trackonomics.net/client/static/v2/timeinc_pdgt5693nm88mrx_people.js,{'https://people.com '},1
+//api.sele.co/ub/v1.jsonp?ka_channel=homepage&ka_sch=&ka_ctype=homepage&ka_id=10037475&ka_type=homepage&ka_abTest=mdextest&ka_collapseall=&ka_pv=1&ka_geo=0&ka_otgeo=0&ka_muid=b8c02f12-fae7-48fa-917e-5cfb0ab6e9a1&ka_mrid=9d0728c8-8626-4fc2-9469-82204d02c94c&ka_dockedleaderboard=false&ka_dockedrail=true&debugLevel=5&sm_os=Windows&sm_plt=mouse&sm_brw=Chrome&sm_pr=1&sm_w=1017&sm_h=708&sm_o=l&sm_pb=exskEZha&=undefined&ka_concepts[]=&ka_taxons[]=&ka_mtax[]=&utid=1599429849050&loc=https%3A%2F%2Fpeople.com%2F&ref=&sm_cb=smpubApiexskEZha92338434,{'https://people.com '},1
+https://adservice.google.com.pr/adsid/integrator.js?domain=people.com,{'https://people.com '},1
+https://adservice.google.com/adsid/integrator.js?domain=people.com,{'https://people.com '},1
+//aamapi.com/api/init-182h1kagypftheeqt3p.js,{'https://people.com '},1
+https://cdn.selectablemedia.com/ro/c/js/sm_sp.js,{'https://people.com '},1
+https://hpr.outbrain.com/utils/get?url=https%3A%2F%2Fpeople.com&idx=0&rand=39075&key=NANOWDGT01&widgetJSId=HPC_5&va=true&et=true&format=html&pdobuid=-1&adblck=false&px=24&py=5417&vpd=4709&settings=true&recs=true&version=200074&sig=FSR_CVS_B&apv=false&osLang=en-US&winW=1034&winH=708&scrW=1600&scrH=900&dpr=1&secured=true&cmpStat=0&ccpaStat=0,{'https://people.com '},1
+"https://api-ntv.sele.co/sp/v5.jsonp?ka_abTest=mdextest&ka_channel=homepage&ka_collapseall=&ka_concepts[]=&ka_ctype=homepage&ka_dockedleaderboard=false&ka_dockedrail=true&ka_geo=0&ka_id=10037475&ka_mrid=9d0728c8-8626-4fc2-9469-82204d02c94c&ka_mtax[]=&ka_muid=b8c02f12-fae7-48fa-917e-5cfb0ab6e9a1&ka_otgeo=0&ka_pv=1&ka_sch=&ka_taxons[]=&ka_type=homepage&iid=639819489&fp=b8c02f12-fae7-48fa-917e-5cfb0ab6e9a1&utid=1599429849050&pls=1108,1145,1702,1736,1383,1375,1376,1377,1245,1612&cb=onSmSponsoredData&sm_os=Windows&sm_plt=mouse&sm_brw=Chrome&sm_pr=1&sm_flsh=0&",{'https://people.com '},1
+/dist/loadCssFonts.js,{'https://people.com '},1
+//platform.instagram.com/en_US/embeds.js,{'https://people.com '},1
+//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10,{'https://people.com '},1
+//gwiqcdn.globalwebindex.net/gwiq/gwiq.js,{'https://people.com '},1
+https://cdn.p-n.io/pushly-sdk.min.js?domain_key=BCeLboDFNRwDLByTKkXLDU6OBrwLSLQmYntG,{'https://people.com '},1
+https://assets.vidora.com/js/vidora-client.1.x.x.min.js,{'https://people.com '},1
+//b-code.liadm.com/a-01bi.min.js,{'https://people.com '},1
+https://tru.am/scripts/custom/meredith.js,{'https://people.com '},1
+//upload.omnivirt.com/scripts/embed.js,{'https://people.com '},1
+https://cdn.video.timeinc.com/jumpstart/v4/js/jumpstart.min.js,{'https://people.com '},1
+https://imasdk.googleapis.com/js/sdkloader/ima3.js,{'https://people.com '},1
+//munchkin.marketo.net/159/munchkin.js,{'https://asana.com'},1
+https://www.google-analytics.com/plugins/ua/ec.js,{'https://asana.com'},1
+https://snap.licdn.com/li.lms-analytics/insight.old.min.js,{'https://asana.com'},1
+https://connect.facebook.net/signals/config/1641293582765384?v=2.9.24&r=stable,{'https://asana.com'},1
+https://api.ipify.org?format=jsonp&callback=getIP,{'https://asana.com'},1
+https://static.hotjar.com/c/hotjar-459740.js?sv=7,{'https://asana.com'},1
+https://www.googletagmanager.com/gtag/js?id=G-J1KDXMCQTH&l=dataLayer&cx=c,{'https://asana.com'},1
+https://www.googletagmanager.com/gtm.js?id=GTM-5KGDZGG&l=dataLayer,{'https://asana.com'},1
+https://www.googletagmanager.com/gtm.js?id=GTM-58G7LFP,{'https://asana.com'},1
+/assets/js/lib/bugsnag-2.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/app-user-info-c6e311efce.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/storage-64777f4461.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/analytics-41d42688ec.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/email-112ea40dae.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/i18n-00d802b0c4.js,{'https://asana.com'},1
+https://www.googleoptimize.com/optimize.js?id=GTM-TFF9QTR,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/global-e6a4311d81.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/signup-92b01137ca.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/login-b2e0ea2b70.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/verification-99bb4c309e.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/experiments-0e11ace826.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/page-specific/marketing-reskin-d045a10ad0.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/page-specific/new-homepage-02606402d1.js,{'https://asana.com'},1
+//fast.wistia.com/assets/external/E-v1.js,{'https://asana.com'},1
+https://platform.twitter.com/oct.js,{'https://asana.com'},1
+https://tracking.g2crowd.com/attribution_tracking/conversions/960.js?p=https://asana.com/home?utm_expid=.5Vei3MMKRWq4PUVVS92Z8w.1&utm_referrer=&e=,{'https://asana.com'},1
+//munchkin.marketo.net/munchkin.js,{'https://asana.com'},1
+https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1010260644/?random=1599429979081&cv=9&fst=1599429979081&num=1&label=HZPACPyfhgUQpLXd4QM&guid=ON&resp=GooglemKTybQhCsO&u_h=900&u_w=1600&u_ah=860&u_aw=1600&u_cd=24&u_his=23&u_tz=-240&u_java=false&u_nplug=3&u_nmime=4&gtm=2wg8q1&sendb=1&ig=1&frm=0&url=https%3A%2F%2Fasana.com%2Fhome%3Futm_expid%3D.5Vei3MMKRWq4PUVVS92Z8w.1%26utm_referrer%3D&ref=https%3A%2F%2Fasana.com%2F&tiba=Manage%20your%20team%E2%80%99s%20work%2C%20projects%2C%20%26%20tasks%20online%20%C2%B7%20Asana&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/page-specific/header-cbba13e666.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/page-specific/new-homepage-masthead-7e882e525d.js,{'https://asana.com'},1
+https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js,{'https://asana.com'},1
+https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js,{'https://asana.com'},1
+https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/page-specific/new-homepage-scrolling-features-ac6e702bf5.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/page-specific/new-homepage-flow-chart-6d03fecad6.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/page-specific/new-homepage-graph-93344b18b1.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/page-specific/new-homepage-slideshow-673a04dd22.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/peek-72154b337b.js,{'https://asana.com'},1
+https://luna1.co/assets/dist/hashed/js/first-party-apis/lazy-load-37dcefda37.js,{'https://asana.com'},1
+https://reveal.clearbit.com/v1/companies/reveal?authorization=pk_19342c094a4cbc37c9fb45706d806030&callback=pushToDataLayer,{'https://asana.com'},1
+https://extend.vimeocdn.com/ga/28799736.js,{'https://asana.com'},1
+https://s.yimg.com/aaq/vzm/cs_1.1.2.js,{'http://att.net'},1
+https://s.yimg.com/nn/lib/metro/g/sda/sda_modern_0.0.35.js,{'http://att.net'},1
+https://s.yimg.com/aaq/fp/jsc/tdv2-wafer-featurebar.01a0ee2e.js,{'http://att.net'},1
+https://s.yimg.com/aaq/fp/jsc/tdv2-wafer-stream.fbf499cd.js,{'http://att.net'},1
+https://s.yimg.com/aaq/fp/jsc/tdv2-wafer-header.desktop.c3e45f53.js,{'http://att.net'},1
+https://s.yimg.com/aaq/fp/jsc/tdv2-wafer-utils.08cd7674.js,{'http://att.net'},1
+https://s.yimg.com/aaq/yc/js/iframe-1.0.26.js,{'http://att.net'},1
+https://s.yimg.com/aaq/cmp/version/3.0.3/cmp.js,{'http://att.net'},1
+https://currently.att.yahoo.com/vendor/foresee/gateway.min.js,{'http://att.net'},1
+https://s.yimg.com/rx/builds/7.86.909.1590008200/en-us/videoplayer-nextgen-desktop-min.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-autocomplete-1.18.3-modern-84cc4b5aca.chunk.js,{'http://att.net'},1
+https://s.yimg.com/aaq/c/b90ecf6.caas-scrappy.min.js,{'http://att.net'},1
+chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js,{'http://att.net'},1
+chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js,{'http://att.net'},1
+https://s.yimg.com/rq/darla/3-28-0/js/g-r-min.js,{'http://att.net'},1
+https://s.yimg.com/ss/rapid-3.53.17.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-core-1.42.15-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/hp-viewer/desktop_1.3.64.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-beacon-1.3.1-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-bind-1.1.2-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-caas-1.13.5-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-rapid-1.2.4-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-scrollview-2.7.3-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-tabs-1.10.2-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-text-1.1.3-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-toggle-1.11.1-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-video-2.12.5-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-darla-1.0.13-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-fetch-1.15.7-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-form-1.14.6-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-image-1.1.4-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-template-1.3.5-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-autocomplete-1.18.3-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-geolocation-1.2.9-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-loader-1.1.77-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-menu-1.0.0-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-tooltip-1.0.13-modern.js,{'http://att.net'},1
+https://s.yimg.com/aaq/wf/wf-action-1.1.7-modern.js,{'http://att.net'},1
+https://s.yimg.com/os/yaft/yaft-0.3.27.min.js,{'http://att.net'},1
+https://s.yimg.com/os/yaft/yaft-plugin-aftnoad-0.1.5.min.js,{'http://att.net'},1
+https://s.yimg.com/cv/apiv2/partner-portals/att/adobe_analytics/1.1.17/s_code_yahoo.js,{'http://att.net'},1
+https://s.yimg.com/rx/builds/7.86.909.1590008200/assets/streamsense.min.js,{'http://att.net'},1
+https://www.gstatic.com/cv/js/sender/v1/cast_sender.js,{'http://att.net'},1
+"https://bam.nr-data.net/1/e6bbbab7f0?a=228622405&v=1177.96a4d39&to=Z1RQNhBXC0FUWkQIW14efA0QWwReXENVBWFCWB1I&rst=5164&ck=0&ref=https://www.wunderground.com/&ap=383.21865&be=1378&fe=4924&dc=2573&tt=7d75615822ac6c&perf=%7B%22timing%22:%7B%22of%22:1599430058928,%22n%22:0,%22f%22:206,%22dn%22:210,%22dne%22:232,%22c%22:232,%22s%22:291,%22ce%22:369,%22rq%22:370,%22rp%22:528,%22rpe%22:734,%22dl%22:543,%22di%22:1800,%22ds%22:2573,%22de%22:2675,%22dc%22:4924,%22l%22:4924,%22le%22:4926%7D,%22navigation%22:%7B%7D%7D&fp=2003&fcp=2003&ja=%7B%22TWC-Connection-Speed%22:%224G%22,%22TWC-Locale-Group%22:%22US%22,%22TWC-Device-Class%22:%22desktop%22,%22X-Origin-Hint%22:%22wu-next-prod%22,%22TWC-Network-Type%22:%22wifi%22,%22TWC-GeoIP-Country%22:%22PR%22,%22TWC-GeoIP-Lat%22:%2218.4697%22,%22TWC-GeoIP-Long%22:%22-66.1179%22,%22Akamai-Connection-Speed%22:%221000%2B%22,%22TWC-Privacy%22:%22usa%22,%22timingNavigationStart%22:1599430058928,%22timingUnloadEventStart%22:0,%22timingUnloadEventEnd%22:0,%22timingRedirectStart%22:0,%22timingRedirectEnd%22:0,%22timingFetchStart%22:1599430059134,%22timingDomainLookupStart%22:1599430059138,%22timingDomainLookupEnd%22:1599430059160,%22timingConnectStart%22:1599430059160,%22timingConnectEnd%22:1599430059297,%22timingSecureConnectionStart%22:1599430059219,%22timingRequestStart%22:1599430059298,%22timingResponseStart%22:1599430059456,%22timingResponseEnd%22:1599430059662,%22timingDomLoading%22:1599430059471,%22timingDomInteractive%22:1599430060728,%22timingDomContentLoadedEventStart%22:1599430061501,%22timingDomContentLoadedEventEnd%22:1599430061603,%22timingDomComplete%22:1599430063852,%22timingLoadEventStart%22:1599430063852,%22timingLoadEventEnd%22:1599430063854,%22timingFirstPaintTime%22:2004,%22timingFirstPaint%22:1599430060932,%22timingLoadTime%22:4720,%22timingDomReadyTime%22:3124,%22timingReadyStart%22:206,%22timingRedirectTime%22:0,%22timingAppcacheTime%22:4,%22timingUnloadEventTime%22:0,%22timingLookupDomainTime%22:22,%22timingConnectTime%22:137,%22timingRequestTime%22:364,%22timingInitDomTreeTime%22:1066,%22timingLoadEventTime%22:2%7D&jsonp=NREUM.setToken",{'https://wunderground.com'},1
+//c2.taboola.com/nr/theweatherchannel-wunderground/newsroom.js,{'https://wunderground.com'},1
+//cdn.taboola.com/libtrc/theweatherchannel-wunderground/loader.js,{'https://wunderground.com'},1
+https://js-agent.newrelic.com/nr-1177.min.js,{'https://wunderground.com'},1
+https://www.wunderground.com/akam/11/65e09ef9,{'https://wunderground.com'},1
+/bundle-next/0-es2015.9606e90bc24bcb262a2e.js,{'https://wunderground.com'},1
+/bundle-next/1-es2015.15260ba9d473ed7c0ddf.js,{'https://wunderground.com'},1
+/bundle-next/2-es2015.9bd45918628a4eea6257.js,{'https://wunderground.com'},1
+/bundle-next/4-es2015.9653465a3ecc187ccb78.js,{'https://wunderground.com'},1
+/bundle-next/7-es2015.3073a72759f1bbf863c1.js,{'https://wunderground.com'},1
+/bundle-next/6-es2015.cce932cc6c066f5e8a6f.js,{'https://wunderground.com'},1
+/bundle-next/8-es2015.be4c29631cbf896726d1.js,{'https://wunderground.com'},1
+/bundle-next/9-es2015.dcc7452cb177eaa581e3.js,{'https://wunderground.com'},1
+/bundle-next/11-es2015.6bfb03a4574182b52c69.js,{'https://wunderground.com'},1
+/bundle-next/14-es2015.bdda1c2faa3140821c12.js,{'https://wunderground.com'},1
+/bundle-next/common-es2015.a48863f5d909140196c8.js,{'https://wunderground.com'},1
+/bundle-next/61-es2015.9a424fe41b1d2a99e3d7.js,{'https://wunderground.com'},1
+/bundle-next/73-es2015.7614014d9d905ca21add.js,{'https://wunderground.com'},1
+https://www.wunderground.com/api/v1/script/dprSdkScript.js,{'https://wunderground.com'},1
+/bundle-next/runtime-es2015.6247aae4731ceeffe4a9.js,{'https://wunderground.com'},1
+/bundle-next/runtime-es5.6247aae4731ceeffe4a9.js,{'https://wunderground.com'},1
+/bundle-next/polyfills-es5.d1e59e2028d9f32e0ddb.js,{'https://wunderground.com'},1
+/bundle-next/polyfills-es2015.ffff41b335a16740abba.js,{'https://wunderground.com'},1
+/bundle-next/scripts.551a392e91cbf7d53e2f.js,{'https://wunderground.com'},1
+/bundle-next/main-es2015.31e037f85fc50ac17262.js,{'https://wunderground.com'},1
+/bundle-next/main-es5.31e037f85fc50ac17262.js,{'https://wunderground.com'},1
+/js/hzCheck.js?seed=AADjbmV0AQAAtjqFMVJkyEis_biQ8R_7MzrMbuiNJgl3bdT3CLtDw_nmztLb&x-dvgK4KuT--z=q,{'https://houzz.com'},1
+//as.hzcdn.com/j/res?type=l10n&locale=en-US&pageName=visitorHomepageV1&version=202009041545&t=l10n.js,{'https://houzz.com'},1
+//as.hzcdn.com/j/res?type=assets&locale=en-US&version=202009041545&t=asset.js,{'https://houzz.com'},1
+//as.hzcdn.com/assets/vendor_bf48cd51a6a2ae60f994.bundle.js,{'https://houzz.com'},1
+"https://st.hzcdn.com/js/script?f=jquery-1.11.1,hz,hzConfig,hzI18n,hzLogger,hzGtm,hzMain,eventBus,main,bmblock,errSt,jqUtils,core,ui,responsiveReload,standardHeaderV6&v=4299&l=en-US&d=2&m=1&p=1&j=23",{'https://houzz.com'},1
+"https://st.hzcdn.com/js/ajaxconn?f=UILoggerAjax,JsErrorLoggerAjax&v=4299&l=en-US&d=2&p=1&j=23",{'https://houzz.com'},1
+//as.hzcdn.com/assets/visitorHomepageV1_3d5b4aeb2a0f738950a7.bundle.js,{'https://houzz.com'},1

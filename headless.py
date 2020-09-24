@@ -6,7 +6,7 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 # headless browser to test javascript code
 driver = webdriver.Chrome(ChromeDriverManager().install())
-site = 'https://yahoo.com'
+site = 'https://usatoday.com'
 
 driver.get(site)  # add desired link to test
 y = requests.get(site)
