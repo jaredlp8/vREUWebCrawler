@@ -69,11 +69,11 @@ def metrics_getter(site_url, site_list):
 system('cls')
 print("Welcome to the JavaScript Web Crawler!!!"
       "\n--> First, select file containing your websites to crawl for their JavaScript files"
-      "\n--> The crawler only accepts .txt and .csv files"
+      "\n--> The crawler only accepts .txt files. Follow the examplelist.txt provided."
       "\n --> Caution: Some JavaScript file headers are not loaded because of the request timeout of the site")
 print('*********************************************************************************************')
 Tk().withdraw()
-filename = filedialog.askopenfilename(filetypes=[("Text files", ".txt"), ("CSV files", ".csv")],
+filename = filedialog.askopenfilename(filetypes=[("Text files", ".txt")],
                                       title='Select Files to Crawl')
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
@@ -90,7 +90,7 @@ with open('data.csv', mode='w', newline='') as f:
     writer.writeheader()
     number_of_url = 1
     for url in content:
-        print(f'[{number_of_url}/100] ' + url, end='')
+        print(f'[{number_of_url}/{len(content)}] ' + url, end='')
         counter = 0
         if url.__contains__('http://') or url.__contains__('https://'):
             driver.get(url)
