@@ -15,4 +15,4 @@ The crawler was developed in **Python** and used the following libraries:
 
 ## How to use crawler
 The crawler accepts .txt files containing your desired sites to crawl. You can follow the formatting example list text file provided, examplelist.txt, in the repository 
-so that no errors occure during the crawling process. 
+so that no errors occur during the crawling process. 
